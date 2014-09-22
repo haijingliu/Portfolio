@@ -1,0 +1,229 @@
+  @font-face{ font-family:
+    'Source Code Pro', 'Karla', sans-serif,'FontAwesome';
+    src: url('../fonts/fontawesome-webfont.eot?v=4.2.0');
+    src: url('../fonts/fontawesome-webfont.eot?#iefix&v=4.2.0') format('embedded-opentype'),
+     url('../fonts/fontawesome-webfont.woff?v=4.2.0') format('woff'), 
+     url('../fonts/fontawesome-webfont.ttf?v=4.2.0') format('truetype'), 
+     url('../fonts/fontawesome-webfont.svg?v=4.2.0#fontawesomeregular') format('svg')
+  }
+
+  *{
+    padding: 0;
+    margin: 0;
+  }
+  *，
+  *:before,
+  *:after {
+    box-sizing: inherit;
+  }
+  body{
+    background: linear-gradient(to bottom right, #D6E8F2, white);
+    background: -moz-linear-gradient:(to bottom right, #D6E8F2, #FFCCCC);
+    font-size: 100%;
+  }
+
+  div#container{
+    width:100%;
+    background:#f2f2eb;
+  }
+
+  /*landing page : home.php*/
+
+    section#main{
+      border-style: solid;
+      border-width: 1px;
+      opacity: 0.8;
+      margin: 80px 200px;
+      padding: 20px;
+      box-shadow: 1px 5px 50px #99ccff;
+      display: inline-block;
+
+    }
+
+     section#main img{
+        width: 25%;
+      }
+
+     section#about{
+      margin:20px;
+      overflow:hidden;
+      width:60%;
+      text-align: left;
+      font-size:0.9em;
+      font-family: 'Karla', Helvetica, sans-serif;
+      opacity: 0.8;
+     }
+
+    section#about p{
+      margin-bottom: 20px;
+    }
+    .highlight{
+      font-weight: bolder;
+    }
+
+  /*-------//navigation//--------------*/
+  /*  //NAV// */
+  nav#main_nav{
+    height: 55px;
+  }
+
+    nav#main_nav ul#nav_list{
+      display: flex;
+      display: -webkit-box;
+      display: -ms-flexbox;      /* TWEENER - IE 10 */
+      display: -webkit-flex;
+      flex-flow: row wrap;
+      -webkit-flex-direction: row;
+    }
+      .nav_list{
+        position: fixed;
+        width: 100%;
+        z-index: 99999;
+      }
+
+      nav#main_nav ul#nav_list li{
+       height: 60px;
+        width: 10%;
+        text-align:center;
+      }
+
+a#navLogo h1{
+          max-width: 40%;
+          width: 40;
+          height: 60px;
+          overflow: hidden;
+          text-indent: -99999px;
+        }
+     
+      #navLogo h1:hover{
+            background-position: center 10px;
+        }
+
+        nav#main_nav ul li.link{
+            padding: 10px;
+            font-size: 1.2em;
+            font-family: "source code pro" sans-serif;
+            color: white;
+        }
+
+          nav#main_nav ul#nav_list li.link a{
+            text-decoration: none;
+          }
+
+          nav#main_nav ul#nav_list a.navAbout{ color: white; }
+          nav#main_nav ul#nav_list a.navBlog{ color: white; }
+          nav#main_nav ul#nav_list a.navWork{ color: white; }
+          nav#main_nav ul#nav_list li.link a:hover{
+            color: white!important;
+          }
+          /*--------- nav done ------*/
+
+
+
+/*----media query---*/
+
+
+
+
+
+
+
+
+  /*-----------//working list section---------------*/
+  section#section_work{
+    margin:100;
+    width: 100%;
+    background: linear-gradient( rgba(153,204,255, 0.25), rgba(255, 204, 153, 0.25));
+  }
+
+    section#section_work ul#work_list{
+      padding:10;
+      width: 90%;
+      height: 25%;
+      list-style: none;
+      overflow: hidden;
+
+      display: inline-block;
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: -webkit-flex;
+
+      -webkit-flex-flow: wrap row;
+        flex-flow: wrap row;
+    }
+      section#section_work ul#work_list li.each_work{
+        width: 20%;
+        padding:1%;
+        overflow: hidden;
+      }
+        a.work_link{
+          width: 100%;
+          display: inline-block;
+          position: relative;
+          overflow: hidden;
+        }
+          section#section_work ul#work_list li img{
+            width: 100%;
+            height:auto;
+        }
+          div.work_detail{
+            width: 100%;
+            height: 100%;
+            position:relative;
+            z-index: 1000;
+            font-family: "karla","sans-serif";
+            color: #3366ff;
+            
+            text-align: right;
+
+          }
+            a.work_link:hover div.work_detail{
+             margin-top: 100;
+            }
+
+              div.work_detail p.worktitle{
+                position: relative;
+                width: 100%;
+                font-size: 1.2 em;
+                font-weight: bold;
+                text-decoration: 
+              }
+           
+                div.work_detail p.worktitle span{
+                  padding: 3;
+                  text-decoration: none;
+                  text-transform: uppercase;
+                  border: solid #3366ff 3px;
+                  text-decoration: none;
+                }
+
+              div.work_detail p.worksubtitle{
+                font-size:1em;
+                font-weight: lighter;
+                position: relative;
+                width: 100%;
+                opacity: 0.8;
+                text-decoration: none;
+                color: black;
+              }
+
+ /*--------///footer///----------*/
+
+    footer#main_footer {
+      width: 100%;
+      padding: 20px 0;
+
+    }
+      footer#main_footer p{
+              font-family: "source code pro", Helvetica, sans-serif;
+              text-align: center;
+              text-transform: uppercase;
+              font-size: 1 em;
+              color: white;
+              padding: 10px 0;
+      }
+
+
+
+
+  
