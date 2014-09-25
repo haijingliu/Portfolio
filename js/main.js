@@ -19,7 +19,7 @@ function changeColor() {
   main_footer.style.backgroundColor = "rgb(" + r + "," + g + "," + b + ")"; 
   main_nav.style.backgroundColor = "rgb(" + r + "," + b + "," + g + ")"; 
   
-  counter += 0.01;
+  counter += 0.0125;
 };
 
 
@@ -31,7 +31,7 @@ document.getElementById('in').style.fontWeight="bold";
 document.getElementById('in').style.fontSize="larger";
 
 var In= document.getElementById('in');
-var in_list = [ "metaphorical interfaces", "hyper-media communications", "interactive data visualization"];
+var in_list = [ "metaphorical interfaces", "hyper-media communications", "interactive data visualization", " "];
 
 var newAm = window.setInterval( function() {
    var num = Math.floor(Math.random() * in_list.length);
@@ -44,8 +44,8 @@ document.getElementById('doing').style.fontFamily="source code pro";
 document.getElementById('doing').style.fontWeight="bold";
 document.getElementById('doing').style.fontSize="normal";
 
-// var Do= document.getElementById('doing');
-// var do_list = [ "building circuits", "coding", "programming","soldering", "tinkering"];
+var Do= document.getElementById('doing');
+var do_list = [ "circuits designing", "coding", "soldering", "tinkering"];
 
 var newDo = window.setInterval( function(){
    var num = Math.floor(Math.random() * do_list.length);

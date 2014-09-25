@@ -1,5 +1,3 @@
-
-
 <nav id="main_nav" class="nav_list">
       <ul id="nav_list">
             <li><a id = "navLogo" href="http://haijing.info"></a></li> 

@@ -1,18 +1,18 @@
 
-<?php include_once 'includes/nav.php';?>
+<?php include_once 'includes/nav.php' ?>
       <section id="main">
 
       <section id="about">
          <p style="font-weight:bold;font-size:large">Hello, there &nbsp;&nbsp;<i class="fa fa-smile-o"></i></p> 
-         <p>This is <span class="highlight" style="font-weight:bold, font-size:large; " > Haijing </span>, &nbsp;a designer mainly for interactions , &nbsp; currently New York City based.</p>
-         <P>I have just finished my MFA Degree work at <a href="http://www.newschool.edu/parsons/mfa-design-technology/" target="_blank" style="text-decoration: none; color: #000000 "> Parsons MFAD+T</a>, and is looking for a full time employment in the States.</p>
-         <p>during the two year MFA experience at parsons I have shifted my interests from communication design into</p>
+         <p>This is <span class="highlight" style="font-weight:bold, font-size:large; " > Haijing </span>, &nbsp;a designer mainly for interactions, &nbsp; currently New York City based.</p>
+         <P>I have just finished my MFA Degree work at <a href="http://www.newschool.edu/parsons/mfa-design-technology/" target="_blank" style="text-decoration: none; color: #000000 "> Parsons MFAD+T</a>
+         , and is looking for a full time employment in the States.</p>
+         <p>during the two year MFA experience at parsons I have shifted my interests from communication and ux design into</p>
          &nbsp;
          <span id ="in"></span>.</p>
-         <p>eager for collaborations!</p><!-- 
-
+     
          <P>At meantime, I am a self-initiated creative technologist & (wannabe) developer who keeps practising the nerdy experience of &nbsp;<span id = "doing"></span></p>
-    -->
+ 
       <!--links-->
       Drop me a line&nbsp;
       <a href= "haijing@haijing.info" target="_blank" style="text-decoration: none; color: #000000 " ><i class="fa fa-file-text"></i></a>&nbsp;&nbsp;&nbsp;
@@ -21,7 +21,9 @@
       <a href="https://twitter.com/charl28th" target="_blank" style="text-decoration: none; color: #000000 " ><i class="fa fa-twitter fa-lg"></i></a>&nbsp;
       <a href="instagram.com/haijing28" target="_blank" style="text-decoration: none; color: #000000 " ><i class="fa fa-instagram fa-lg"></i></a>&nbsp;
       ,</article> &nbsp; + Stay tuned <a href="http://www.last.fm/user/umaloto" target="_blank" style="text-decoration: none; color: #000000 " ><i class="fa fa-music"></i>
-      </p>
+      </p></a>
+          <p>eager for collaborations!</p>
+          
       </section>
          
       </section>
@@ -31,7 +33,7 @@
 <ul id="work_list">
 
 <li class="each_work">
-<a class="work_link" href="?page=thesis">
+<a class="work_link" href="?page=copterwish">
 <img src="img/thumbs/thesis.png">
 <div class="work_detail">
 <p class="worktitle"><span>Wish Message</span></p>
@@ -52,7 +54,7 @@
 </li>
 
 <li class = "each_work">
-<a class="work_link" href="?page=SprayIt">
+<a class="work_link" href="?page=sprayIt">
    <img src="img/thumbs/sprayit.png">
    <div class="work_detail">
    <p class="worktitle"><span>Spray It</span></p>
@@ -62,7 +64,7 @@
 </li>
 
 <li class = "each_work">
-<a class="work_link" href="?idhub">
+<a class="work_link" href="?page=idhub">
    <img src="img/thumbs/idhub.png">
    <div class="work_detail">
    <p class="worktitle"><span>idhub</span></p>
