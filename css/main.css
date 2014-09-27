@@ -20,6 +20,7 @@
     background: linear-gradient(to bottom right, #D6E8F2, white);
     background: -moz-linear-gradient:(to bottom right, #D6E8F2, #FFCCCC);
     font-size: 100%;
+
   }
 
   div#container{
@@ -76,7 +77,7 @@
       -webkit-flex-direction: row;
     }
       .nav_list{
-        position: fixed;
+        position: absolute;
         width: 100%;
         z-index: 99999;
       }
@@ -126,18 +127,18 @@ a#navLogo h1{
 /*  //PROJECT PAGE// */
  div#project_wrapper{
     position: relative;
-    font-family: 'Gotham', Helvetica, san-serif;
+    font-family: 'Lato', Helvetica, sans-serif;
   }
-    header{
-      padding-top: 60px;
-      position: fixed;
+/*   header{
+      padding-top: -100px;
+      position: absolute;
       top: 0;
       text-align: center;
       width: 100%;
       min-height: auto;
       margin: 0 auto;
       overflow:hidden;
-      z-index:-1;
+      z-index:-9999;
       background: blue;
       align-items: center;
         justify-content: center;
@@ -153,20 +154,20 @@ a#navLogo h1{
 
       header .header_container{
         min-width: 100%;
-      }
+      }*/
 
     section#work_content{
       width: 100%;
-      padding: 50px 5%;
+      padding: 100px 5%;
       margin: 0 auto;
-      margin-top: 40vw;
+      margin-top: 0vw;
 
       display: flex;
       display: -webkit-box;
       display: -ms-flexbox;
       display: -webkit-flex;
 
-      background: linear-gradient(to bottom right, #E6E6E6, #B3B3B3);
+      background: linear-gradient(to bottom right, #fcfcfc, #E8E6FD);
 
       -webkit-box-shadow: 2px -21px 38px -1px rgba(0,0,0,0.45);
       -moz-box-shadow: 2px -21px 38px -1px rgba(0,0,0,0.45);
@@ -175,25 +176,25 @@ a#navLogo h1{
 
       article#work_details{
         color: black;
-        width: 35%;
-        padding-right: 2%;
+        width: 50%;
+        padding-right: 10%;
       }
         article#work_details h2{
           font-size: 3.2vw;
       }
         article#work_details h3{
-          font-size: 2vw;
+          font-size: 2.3vw;
           font-weight: 100;
         }
         article#work_details div.toolbox{
-          width: 100%;
+          width: 80%;
           padding: 10px 0;
         }
           div.toolbox h4{
             display: inline-table;
             padding: 4px;
-            border: 1px solid black;
-            margin: 5px 0;
+          /*  border: px solid black;*/
+            margin: 10px 0;
             font-size: 1.2vw;
           }
 
@@ -206,16 +207,16 @@ a#navLogo h1{
         padding-left: 2%;
       }
         article#work_imgs img{
-          width: 900px;
+          width: 600px;
           max-width: 100%;
           display: block;
-          border: #676767 solid 3px;
+         /* border: #676767 solid px;*/
           margin-bottom: 40px;
         }
         article#work_imgs .video_container{
           max-width: 100%;
           display: block;
-          margin-bottom: 40px;
+          margin-bottom: 30px;
           position: relative;
             padding-bottom: 56.25%;
             height: 0;

@@ -16,9 +16,11 @@
                   <p>
                   Graffiti in New York City has been recognized as an act of urban vandalism culture towards the city's authorities.
                   This urban art form has widely influenced the graffiti culture worldwidely.
-                  SprayIt is an web applications with multi-user features runs on the heroku platform. 
+                  SprayIt is an web application with multi-user features runs on the heroku platform. 
                   This app tries to deliver an online exprience of the New York City Graffiti Culture to the internet 
-                  users.
+                  users. 
+
+                  the brush code is in using the codepen source http://codepen.io/hygine/pen/yIvKm
             </p>
             
             </article>

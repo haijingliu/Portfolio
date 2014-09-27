@@ -14,6 +14,7 @@
          <P>At meantime, I am a self-initiated creative technologist & (wannabe) developer who keeps practising the nerdy experience of &nbsp;<span id = "doing"></span></p>
  
       <!--links-->
+
       Drop me a line&nbsp;
       <a href= "haijing@haijing.info" target="_blank" style="text-decoration: none; color: #000000 " ><i class="fa fa-file-text"></i></a>&nbsp;&nbsp;&nbsp;
       Get social &nbsp;
@@ -29,7 +30,7 @@
       </section>
 
 
-<section id="section_work">
+<section id="section_works">
 <ul id="work_list">
 
 <li class="each_work">

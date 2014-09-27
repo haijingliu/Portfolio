@@ -15,7 +15,8 @@
                   </div>
                   <p>This project is exploring the digital representation as well as a poetic perception of time.
                      An analog clock scans the present scene by its second, minute and hour hands.the scanning process is using "slit-scan',
-                     a photographic and cinematographic technique. This project is made by Openframeworks.</p>
+                     a photographic and cinematographic technique by adding a camera function. 
+                     This project is made by Openframeworks.</p>
 
             </article>
             <article id="work_imgs">
