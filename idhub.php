@@ -8,7 +8,7 @@
             <article id="work_details">
                   <h2>IdHub</h2>
                   <h3>UserExperience/Speculative Design</h3>
-                  <div class="toolbox">
+                  <div class="tool-list">
                         <h4 class="tool">Concept Development</h4>
                         <h4 class="tool">workshop</h4>
                   </div>

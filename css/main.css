@@ -1,5 +1,5 @@
   @font-face{ font-family:
-    'Source Code Pro', 'Karla', sans-serif,'FontAwesome';
+    'Source Code Pro', 'Karla', 'lato'sans-serif,'FontAwesome';
     src: url('../fonts/fontawesome-webfont.eot?v=4.2.0');
     src: url('../fonts/fontawesome-webfont.eot?#iefix&v=4.2.0') format('embedded-opentype'),
      url('../fonts/fontawesome-webfont.woff?v=4.2.0') format('woff'), 
@@ -50,9 +50,9 @@
       overflow:hidden;
       width:60%;
       text-align: left;
-      font-size:0.9em;
+      font-size:1.2em;
       font-family: 'Karla', Helvetica, sans-serif;
-      opacity: 0.7;
+      opacity: 0.9;
      }
 
     section#about p{
@@ -77,7 +77,7 @@
       -webkit-flex-direction: row;
     }
       .nav_list{
-        position: absolute;
+        position: fixed;
         width: 100%;
         z-index: 99999;
       }
@@ -129,7 +129,7 @@ a#navLogo h1{
     position: relative;
     font-family: 'Lato', Helvetica, sans-serif;
   }
-/*   header{
+header{
       padding-top: -100px;
       position: absolute;
       top: 0;
@@ -144,22 +144,22 @@ a#navLogo h1{
         justify-content: center;
         vertical-align: middle;
     }
-      header img{
+     /* header img{
         max-width: 100%;
         height: auto;
         overflow: hidden;
       
         width: auto\9;
-        background: url(../img/fastfood_01.gif) center 70px no-repeat fixed; }
-
+        background: url(../img/fastfood_01.gif) center 70px no-repeat fixed; }*/
+/*
       header .header_container{
         min-width: 100%;
       }*/
 
     section#work_content{
-      width: 100%;
-      padding: 100px 5%;
-      margin: 0 auto;
+      width: 70%;
+      padding: 100px 15%;
+      margin: 10 auto;
       margin-top: 0vw;
 
       display: flex;

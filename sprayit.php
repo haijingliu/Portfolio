@@ -8,7 +8,7 @@
             <article id="work_details">
                   <h2>sprayIt</h2>
                   <h3>Web Application as a Multi-user drawing tool</h3>
-                  <div class="toolbox">
+                  <div class="tool-list">
                         <h4 class="tool">Heroku</h4>
                         <h4 class="tool">Node.js</h4>
                         <h4 class="tool">WebSocketApi</h4>
@@ -20,7 +20,7 @@
                   This app tries to deliver an online exprience of the New York City Graffiti Culture to the internet 
                   users. 
 
-                  the brush code is in using the codepen source http://codepen.io/hygine/pen/yIvKm
+                  This brush code is in using a codepen source http://codepen.io/hygine/pen/yIvKm
             </p>
             
             </article>
@@ -35,7 +35,7 @@
             </article>
       </section>
       <footer class="project_footer" style="background: #ff9999">
-            <a target="_blank" href="http://sprayit.herokuapp.com/">Start to Spray!</a>
+            <i class="fa fa-link"><a target="_blank"  href="http://sprayit.herokuapp.com/">Start to Spray!</a></i>
       </footer>
       <footer class="project_footer" style="background: #00ccff">
             <a target="_blank" href="https://github.com/">Source Code is available on Github</a>
