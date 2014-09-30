@@ -20,7 +20,7 @@
                  <p></p>
 
                   <div class="toolinks"> 
-                        <i class="fa fa-wrench"></i><!-- Tech Implementation -->
+                        <i class="fa fa-wrench"></i>
                         <h4 class="tool">ArduinoFio</h4>
                         <h4 class="tool">Triple Axis Accelerometer</h4>
                         <h4 class="tool">Node.js</h4>
@@ -32,12 +32,12 @@
             <p>Thesis Instructor  <br> <a href="http://www.melaniecrean.com/">Melanie Crean</a> <a href="http://www.andrewzornoza.com/">Andrew Zornoza</a></p>
             <p>Special thanks to  <br> <a href="http://jos.ph">Joe Saavedra</a> <a href="http://owenherterich.com/">Owen Herterich</a>
             <br>for technology instructions and guidance</p>
-            <p>Development Credits <br>
+            <p>Development Credits<br>
             <a href="http://wentin.co/">Wengting Zhang</a>
             <br>for twitterstream API methodology implement</p>
          
       <section id ="project_links">
-          <article id ="project_link">
+           <article id ="project_link">
             <p><a target="_blank" href="http://.../">Checkout the website documentations</a></p>
             <p><a target="_blank" href="https://github.com/">Source Code is available on Github</a></p>
           </article>
