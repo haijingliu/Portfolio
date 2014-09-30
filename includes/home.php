@@ -11,7 +11,7 @@
          &nbsp;
          <span id ="in"></span></p>
 
-         <p>with innovative/aesthetic experience</p>
+         <p>with innovative/aesthetic solution</p>
 
       Drop me a line&nbsp;
       <a href= "haijing@haijing.info" target="_blank" style="text-decoration: none; color: #000000 " ><i class="fa fa-file-text"></i></a>&nbsp;&nbsp;&nbsp;

@@ -7,14 +7,14 @@
       <section id="work_content">
             <article id="work_details">
                   <h2>Copter Wish</h2>
-                  <h3>Tangible Interface/Interactive Datavisualization</h3>
+                  <h3>Tangible Interface/Interactive Datavisualization ｜2014</h3>
                  
                  <p>CopterWish is a tangible Interface which enables the user to literally grab the latest wishes from the Internet(twitter) in a worldwide landscape.</p>
                  <p>The bamboo copter in east asia, pronounced as “zhuqingting” in Mandarin Chinese and “taketombo” in Japanese is an ancient children play that flies up when its shaft is rapidly spun. This object contains a metaphor of good bliss or wish.</p>
                  <p>Using the object as a form to trigger an intriguing interaction with internet data, this interaction subverts the perception between modern electronic devices and their users, hence drawing an effective connection among data and its internet users.</p>
                  <p>In critiquing the modern HCI interaction and a general usage of social networks, this interface is more emphasizing on an aesthetic and poetic experience to explore a physical and haptic interaction with the user-generated data from the internet, as well as to provide participants a co-related emotional experience. </p>
                  <p>This phenomena is parallel to the current generation within the ever emergent globalized tendency. Accurate real-time, individually expression, hybrid geolocations, decentralized power and rights are signs of this contemporary networking experience.</p>
-                 <p>My original intention is to create a nostalgic interaction mode instead of the touch or click triggering process. The goal of this project is to allow users who constantly in contact with modern HCI interface for many efficient purpose to (re)gain a physically playful experience that this generation owed decades ago.</p>
+                 <p>My original intention is to create a nostalgic interaction mode instead of the touch or click triggering process,and to allow users who constantly in contact with modern HCI interface for many efficient purpose to (re)gain a physically playful experience that this generation owed decades ago.</p>
                  <p>This project is also my little satirical concern on how modern technology (either the social media networks or the devices) shaping humanbeings interaction modes with both gadgets and social-networking ties.</p>
                  
                  <p></p>
@@ -54,5 +54,10 @@
                   <img src="img/wishes03.jpg">
             </article>
       </section>
-  
 </div>
+    <!--   <footer class="project_footer" style="background: #ff9999">
+            <a target="_blank" href="http://.../">Checkout the website documentations</a>
+      </footer>
+      <footer class="project_footer" style="background: #00ccff">
+            <a target="_blank" href="https://github.com/">Source Code is available on Github</a>
+      </footer> -->
