@@ -6,14 +6,13 @@
          <p style="font-weight:bold;font-size:large">Hello, there &nbsp;&nbsp;<i class="fa fa-smile-o"></i></p> 
          <p>This is <span class="highlight" style="font-weight:bold, font-size:large; " > Haijing（海静)</span>&nbsp;a designer mainly for interactions,&nbsp;currently New York City based.</p>
          <P>I have just finished my MFA Degree work at <a href="http://www.newschool.edu/parsons/mfa-design-technology/" target="_blank" style="text-decoration: none; color: #000000 "> Parsons MFAD+T</a>
-         , and is looking for a opportunities to extend my skill as an interaction designer in the States.</p>
-         <p>during the two year MFA experience at parsons I have shifted my interests from communication and ux design into</p>
+         , and is looking for a opportunities to extend my skill as an interaction designer + developer in the States.</p>
+         <p>during the two year MFA experience at parsons I have shifted my interests from communication design into</p>
          &nbsp;
-         <span id ="in"></span>.</p>
-     
-        <!--  <P>At meantime, I am a self-initiated creative technologist & (wannabe) developer who keeps practising the nerdy experience of &nbsp;<span id = "doing"></span></p>
-  -->
-      <!--links-->
+         <span id ="in"></span></p>
+
+         <p>with certain aesthetic experience</p>
+
       Drop me a line&nbsp;
       <a href= "haijing@haijing.info" target="_blank" style="text-decoration: none; color: #000000 " ><i class="fa fa-file-text"></i></a>&nbsp;&nbsp;&nbsp;
       Get social &nbsp;

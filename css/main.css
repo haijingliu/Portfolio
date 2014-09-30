@@ -31,9 +31,9 @@
 
     section#main{
       border-style: solid;
-      border-width: 2px;
+      border-width: 1.2px;
       opacity: 0.8;
-      margin: 80px 200px;
+      margin: 85px 200px;
       padding: 20px;
       box-shadow: 1px 5px 50px #99ccff;
       display: inline-block;
@@ -51,7 +51,6 @@
       text-align: left;
       font-size:1.2em;
       font-family: 'Karla', Helvetica, sans-serif;
-      opacity: 0.9;
      }
 
     section#about p{
@@ -64,18 +63,18 @@
   /*-------//navigation//--------------*/
   /*  //NAV// */
   nav#main_nav{
-    height: 55px;
+    height: 65px;
   }
 
     nav#main_nav ul#nav_list{
       display: flex;
-      display: -webkit-box;
-      display: -webkit-flex;
+ /*     display: -webkit-box;
+      display: -webkit-flex;*/
 /*      flex-flow: row wrap;
       webkit-flex-direction: row;*/
     }
       .nav_list{
-        position: fixed;
+        position: absolute;
         width: 100%;
         z-index: 99999;
       }
@@ -86,21 +85,22 @@
         text-align:center;
       }
 
-      a#navLogo h1{
+
+  /*   a#navLogo h1{
           max-width: 40%;
           width: 40;
           height: 60px;
           overflow: hidden;
           text-indent: -99999px;
-        }
+        }*/
      
-      #navLogo h1:hover{
+  /*    #navLogo h1:hover{
             background-position: center 10px;
         }
-
+*/
         nav#main_nav ul li.link{
             padding: 10px;
-            font-size: 1.2em;
+            font-size: 1em;
             font-family: "source code pro" sans-serif;
             color: white;
         }
@@ -115,6 +115,7 @@
           nav#main_nav ul#nav_list li.link a:hover{
           color: white!important;
           }
+
 /*--------- nav done ------*/
 
 
@@ -138,7 +139,7 @@ header{
       margin: 0 auto;
       overflow:hidden;
       z-index:-9999;
-      background: blue ;
+      background: blue;
       align-items: center;
       justify-content: center;
       vertical-align: middle;
@@ -255,7 +256,7 @@ header{
     
     font-family: "source code pro", Helvetica, sans-serif;
     text-align: left;
-    font-size: 24px;
+    font-size: 25px;
     background: yellow;
     color: #4D4D4D;
     width: 100%;
@@ -267,16 +268,15 @@ header{
 
  /*-----------//working list section---------------*/
   section#section_work{
-    margin:100;
     width: 100%;
     background: linear-gradient( rgba(153,204,255, 0.25), rgba(255, 204, 153, 0.25));
   }
 
     section#section_work ul#work_list{
-      padding:10;
-      width: 90%;
+    /*  padding:100;*/
+      width: 100%;
       height: 25%;
-      list-style: none;
+      /*list-style: none;*/
       overflow: hidden;
 
       display: inline-block;
@@ -288,8 +288,8 @@ header{
         flex-flow: wrap row;
     }
       section#section_work ul#work_list li.each_work{
-        width: 20%;
-        padding:1%;
+        width: 18%;
+        padding:3%;
         overflow: hidden;
       }
         a.work_link{
@@ -308,8 +308,7 @@ header{
             position:relative;
             z-index: 1000;
             font-family: "karla","sans-serif";
-            color: #3366ff;
-            
+            color: black;
             text-align: right;
 
           }
@@ -322,7 +321,7 @@ header{
                 width: 100%;
                 font-size: 1.2 em;
                 font-weight: bold;
-                text-decoration: 
+                text-decoration: none;
               }
            
                 div.work_detail p.worktitle span{
