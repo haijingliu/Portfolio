@@ -19,9 +19,7 @@
                   SprayIt is an web application with multi-user features runs on the heroku platform. 
                   This app tries to deliver an online exprience of the New York City Graffiti Culture to the internet 
                   users. 
-
-                  This brush code is in using a codepen source http://codepen.io/hygine/pen/yIvKm
-            </p>
+                  This brush code is in using a codepen source http://codepen.io/hygine/pen/yIvKm</p>
             
             </article>
             </article>

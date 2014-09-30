@@ -35,15 +35,22 @@
 		<link href='http://fonts.googleapis.com/css?family=Source+Code+Pro' rel='stylesheet' type='text/css'>
 		<link href='http://fonts.googleapis.com/css?family=Karla' rel='stylesheet' type='text/css'>
         <link href='http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
-
 		<!-- Js code-->
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	    <!--JS code-->
+	    <script type= "text/javascript" src="js/main.js"></script>
+	    
+	    <!--- google analytics-->
+	    <script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-	   <!--JS code-->
-	   <script type= "text/javascript" src="js/main.js"></script>
+		  ga('create', 'UA-55279323-1', 'auto');
+		  ga('send', 'pageview');
 
-
-	   <!--- google analytics-->
+		</script>
       
       </body>
       </html>
