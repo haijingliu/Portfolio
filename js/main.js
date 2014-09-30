@@ -11,9 +11,9 @@ var MF= document.getElementById('main_footer');
 var Nav= document.getElementById('main_nav')
 setInterval( changeColor, 1000/20 );
 function changeColor() {   
-  r = Math.floor( Math.sin( counter ) * 100 + 100 );
-  g = Math.floor( Math.cos( counter + 0.5 ) * 80 + 120);
-  b = Math.floor(Math.sin(counter + 0.08)*60+80);
+  r = Math.floor( Math.sin( counter ) * 10 + 220 );
+  g = Math.floor( Math.cos( counter + 0.05 ) * 80 + 180);
+  b = Math.floor(Math.sin(counter + 0.008)*60+150);
 
   
   main_footer.style.backgroundColor = "rgb(" + r + "," + g + "," + b + ")"; 
@@ -26,7 +26,7 @@ function changeColor() {
 //---*----nav//home//about//changing introductions---*---//
 //---*----nav//home//about//changing interests---*---//
 document.getElementById('in').style.color="BLACK";
-document.getElementById('in').style.fontFamily="source code pro";
+document.getElementById('in').style.fontFamily="Karla";
 document.getElementById('in').style.fontWeight="bold";
 document.getElementById('in').style.fontSize="larger";
 

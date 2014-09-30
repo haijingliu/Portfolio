@@ -306,7 +306,7 @@ dd {
 menu,
 ol,
 ul {
-    padding: 0 0 0 40px;
+    padding: 0 0 0 0px;
 }
 
 /**
@@ -372,7 +372,7 @@ form {
 fieldset {
     border: 1px solid #c0c0c0;
     margin: 0 2px;
-    padding: 0.35em 0.625em 0.75em;
+   /* padding: 0.35em 0.625em 0.75em;*/
 }
 
 /**
