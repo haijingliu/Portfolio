@@ -11,9 +11,9 @@ var MF= document.getElementById('main_footer');
 var Nav= document.getElementById('main_nav')
 setInterval( changeColor, 1000/20 );
 function changeColor() {   
-  r = Math.floor( Math.sin( counter ) * 10 + 220 );
-  g = Math.floor( Math.cos( counter + 0.05 ) * 80 + 180);
-  b = Math.floor(Math.sin(counter + 0.008)*60+150);
+  r = Math.floor( Math.sin( counter ) * 10 + 230 );
+  g = Math.floor( Math.cos( counter + 0.05 ) * 80 + 200);
+  b = Math.floor(Math.sin(counter + 0.008)*60+180);
 
   
   main_footer.style.backgroundColor = "rgb(" + r + "," + g + "," + b + ")"; 

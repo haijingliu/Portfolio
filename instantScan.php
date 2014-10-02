@@ -1,9 +1,9 @@
 <?php include_once 'includes/nav.php' ?>
 
 <div id="project_wrapper">
-      <header>
+   <!--    <header>
             <img src="img/istantScan.jpg">
-      </header>
+      </header> -->
       <section id="work_content">
             <article id="work_details">
                   <h2>Instant Scan</h2>
@@ -17,8 +17,8 @@
                      An analog clock scans the present scene by its second, minute and hour hands.the scanning process is using "slit-scan',
                      a photographic and cinematographic technique by adding a camera function. 
                      This project is made by Openframeworks.</p>
-
             </article>
+            
             <article id="work_imgs">
                   <div class="video_container">
                         <iframe width="500" height="281" src="//player.vimeo.com/video/81558133" frameborder="0" allowfullscreen></iframe>
@@ -28,7 +28,7 @@
                   <img src="img/scan3.jpg">
             </article>
       </section>
-      <footer class="project_footer" style="background: #00ccff">
-            <a target="_blank" href="https://github.com/">Source Code Available at Github</a>
-      </footer>
-</div>
+           <article id ="project_link">
+            <p><a target="_blank" href="https://github.com/">Source Code is available on Github</a></p>
+          </article>
+</section>

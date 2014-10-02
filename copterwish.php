@@ -18,7 +18,9 @@
                  <p>This project is also my little satirical concern on how modern technology (either the social media networks or the devices) shaping humanbeings interaction modes with both gadgets and social-networking ties.</p>
                  
                  <p></p>
+            </article>
 
+            <article>
                   <div class="toolinks"> 
                         <i class="fa fa-wrench"></i>
                         <h4 class="tool">ArduinoFio</h4>
@@ -28,26 +30,27 @@
                         <h4 class="tool">TwitterStreamApi</h4>
                         <h4 class="tool">GoogleMapApi</h4>
                   </div>
+            </article>
 
+            <article id ="project_features">
             <p>Thesis Instructor  <br> <a href="http://www.melaniecrean.com/">Melanie Crean</a> <a href="http://www.andrewzornoza.com/">Andrew Zornoza</a></p>
             <p>Special thanks to  <br> <a href="http://jos.ph">Joe Saavedra</a> <a href="http://owenherterich.com/">Owen Herterich</a>
             <br>for technology instructions and guidance</p>
             <p>Development Credits<br>
             <a href="http://wentin.co/">Wengting Zhang</a>
             <br>for twitterstream API methodology implement</p>
-         
-      <section id ="project_links">
+            </article>         
+
            <article id ="project_link">
             <p><a target="_blank" href="http://.../">Checkout the website documentations</a></p>
             <p><a target="_blank" href="https://github.com/">Source Code is available on Github</a></p>
           </article>
-      </section>
+</section>
 
-            </article>
-            </article>
+<section id="work_img">
             <article id="work_imgs">
                   <div class="video_container">
-                        <iframe width="600" height="281" src="//player.vimeo.com/video/95751766" frameborder="0" allowfullscreen></iframe>
+                        <iframe width="480" height="281" src="//player.vimeo.com/video/95751766" frameborder="0" allowfullscreen></iframe>
                   </div>
                   <img src="img/wishes01.jpg">
                   <img src="img/wishes02.jpg">
@@ -55,9 +58,3 @@
             </article>
       </section>
 </div>
-    <!--   <footer class="project_footer" style="background: #ff9999">
-            <a target="_blank" href="http://.../">Checkout the website documentations</a>
-      </footer>
-      <footer class="project_footer" style="background: #00ccff">
-            <a target="_blank" href="https://github.com/">Source Code is available on Github</a>
-      </footer> -->

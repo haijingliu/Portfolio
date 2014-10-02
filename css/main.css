@@ -139,7 +139,7 @@ header{
       }
 
     section#work_content{
-      width: 70%;
+      width: 90%;
       padding: 100px 5%;
       margin: 0 auto;
       margin-top: 0vw;
@@ -187,11 +187,11 @@ header{
           }
 
       article#work_imgs{
-        width: 50%;
+        width: 100%;
         padding-left: 5%;
       }
         article#work_imgs img{
-          width: 500px;
+          width: px;
           padding-top: 100;
           max-width: 100%;
           display: inline-block;
@@ -329,7 +329,7 @@ header{
 
     footer#main_footer {
       width: 100%;
-      padding: 30px 0;
+      padding: 20px 0;
 
     }
       footer#main_footer p{
