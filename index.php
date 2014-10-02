@@ -17,8 +17,9 @@
 			     include('includes/home.php');
 			  }
 	   ?>
-	   </div>  <!--- end container -->
+	   </div> 
 
+	   <!--- end container -->
 	   <?php include_once 'includes/footer.php' ?> 
 
 

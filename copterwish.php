@@ -20,9 +20,10 @@
                  <p></p>
             </article>
 
-            <article>
+            <article id ="toolinks">
                   <div class="toolinks"> 
-                        <i class="fa fa-wrench"></i>
+                        <h4><i class="fa fa-cog"></i>&nbsp;&nbsp;TECH COMPONENTS</h4>
+
                         <h4 class="tool">ArduinoFio</h4>
                         <h4 class="tool">Triple Axis Accelerometer</h4>
                         <h4 class="tool">Node.js</h4>
