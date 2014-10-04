@@ -29,14 +29,14 @@
 
 
 <section id="section_work">
-<ul id="work_list">
 
+<ul id="work_list">
 <li class="each_work">
 <a class="work_link" href="?page=copterwish">
 <img src="img/thumbs/thesis.png">
 <div class="work_detail">
-<p class="worktitle" style="text-decoration:none;"><span>Wish Message</span></p>
-<p class="worksubtitle" style="text-decoration:none;">Tangible Interface / Interactive Datavisualization</p>
+<p class="worktitle" ><span>Wish Message</span></p>
+<p class="worksubtitle">Tangible Interface / Interactive Datavisualization</p>
 </div>
 </a>
 </li>
@@ -45,10 +45,9 @@
 <a class="work_link" href="?page=instantScan">
    <img src="img/thumbs/instantscan.png">
    <div class="work_detail">
-   <p class="worktitle" style="text-decoration:none;"><span>Instant Scan</span></p>
-   <p class="worksubtitle" style="text-decoration:none;">Software Art</p>
+   <p class="worktitle" ><span>Instant Scan</span></p>
+   <p class="worksubtitle">Software Art / Creative Coding</p>
 <div>
-
 </a>
 </li>
 
@@ -56,8 +55,8 @@
 <a class="work_link" href="?page=sprayIt">
    <img src="img/thumbs/sprayit.png">
    <div class="work_detail">
-   <p class="worktitle" style="text-decoration:none;"><span>Spray It</span></p>
-   <p class="worksubtitle" style="text-decoration:none;">Web Application</p>
+   <p class="worktitle"><span>Spray It</span></p>
+   <p class="worksubtitle">Web Application</p>
    </div>
 </a>
 </li>
@@ -66,8 +65,8 @@
 <a class="work_link" href="?page=idhub">
    <img src="img/thumbs/idhub.png">
    <div class="work_detail">
-   <p class="worktitle" style="text-decoration:none;"><span>idhub</span></p>
-   <p class="worksubtitle" style="text-decoration:none;">ux / speculative design</p>
+   <p class="worktitle" ><span>idhub</span></p>
+   <p class="worksubtitle">ux / speculative design</p>
    </div>
 </a>
 </li>
@@ -76,8 +75,8 @@
 <a class="work_link" href="?page=translation">
    <img src="img/thumbs/translation.png">
    <div class="work_detail">
-   <p class="worktitle" style="text-decoration:none;"><span>translation</span></p>
-   <p class="worksubtitle" style="text-decoration:none;">graphic design / book design</p>
+   <p class="worktitle" ><span>translation</span></p>
+   <p class="worksubtitle">graphic design / book design</p>
    </div>
 </a>
 </li>
@@ -86,8 +85,8 @@
 <a class="work_link" href="?page=moodie">
 <img src="img/thumbs/moodie.png">
 <div class="work_detail">
-<p class="worktitle" style="text-decoration:none;"><span>Moodie</span></p>
-<p class="worksubtitle" style="text-decoration:none;">IOS App/Web app extension</p>
+<p class="worktitle" ><span>Moodie</span></p>
+<p class="worksubtitle">IOS App/Web app extension</p>
 </div>
 </a>
 </li>
@@ -97,8 +96,8 @@
 <a class="work_link" href="?page=honeycomb">
 <img src="img/thumbs/honeycomb.png">
 <div class="work_detail">
-<p class="worktitle" style="text-decoration:none;"><span>Honeycomb</span></p>
-<p class="worksubtitle" style="text-decoration:none;">Mobile app/user experience</p>
+<p class="worktitle" ><span>Honeycomb</span></p>
+<p class="worksubtitle">Mobile app/user experience</p>
 </div>
 </a>
 </li>
@@ -108,8 +107,8 @@
 <a class="work_link" href="?page=facelook">
 <img src="img/thumbs/facelook.png">
 <div class="work_detail">
-<p class="worktitle" style="text-decoration:none;"><span>facelook</span></p>
-<p class="worksubtitle" style="text-decoration:none;">speculative design</p>
+<p class="worktitle" ><span>facelook</span></p>
+<p class="worksubtitle" >speculative design</p>
 </div>
 </a>
 </li>
@@ -118,8 +117,8 @@
 <a class="work_link" href="?page=spin/spin">
 <img src="img/thumbs/spinspin.png">
 <div class="work_detail">
-<p class="worktitle" style="text-decoration:none;"><span>spin/spin</span></p>
-<p class="worksubtitle" style="text-decoration:none;">socialIntervention</p>
+<p class="worktitle" ><span>spin/spin</span></p>
+<p class="worksubtitle" >socialIntervention</p>
 </div>
 </a>
 </li>
@@ -128,7 +127,7 @@
 <a class="work_link" href="?page=datavis">
 <img src="img/thumbs/datavis.png">
 <div class="work_detail">
-<p class="worktitle" style="text-decoration:none;"><span>datavis</span></p>
+<p class="worktitle"><span>datavis</span></p>
 </div>
 </a>
 </li>
@@ -137,7 +136,7 @@
 <a class="work_link" href="?page=datavis">
 <img src="img/thumbs/visualprogramming.png">
 <div class="work_detail">
-<p class="worktitle" style="text-decoration:none;"><span>visualProgramming</span></p>
+<p class="worktitle"><span>visualProgramming</span></p>
 </div>
 </a>
 </li>

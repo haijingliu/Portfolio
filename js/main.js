@@ -11,6 +11,7 @@ var MF= document.getElementById('main_footer');
 var Nav= document.getElementById('main_nav');
 var Links= document.getElementById('links');
 
+
 setInterval( changeColor, 1000/20 );
 function changeColor() {   
   r = Math.floor( Math.sin( counter ) * 10 + 230 );

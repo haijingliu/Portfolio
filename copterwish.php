@@ -7,7 +7,7 @@
       <section id="work_content">
             <article id="work_details">
                   <h2>Copter Wish</h2>
-                  <h3>Tangible Interface &Interactive Datavisualization ｜2014</h3>
+                  <h3>Physical Interface &Interactive Datavisualization ｜2014</h3>
                 
                  <p1><p>CopterWish is a tangible Interface which enables the user to literally grab the latest wishes from the Internet(twitter) in a worldwide landscape.</p>
                  <p>The bamboo copter in east asia, pronounced as “zhuqingting” in Mandarin Chinese and “taketombo” in Japanese is an ancient children play that flies up when its shaft is rapidly spun. This object contains a metaphor of good bliss or wish.</p>
@@ -54,11 +54,13 @@
 <section id="work_img">
             <article id="work_imgs">
                   <div class="video_container">
-                        <iframe width="480" height="281" src="//player.vimeo.com/video/95751766" frameborder="0" allowfullscreen></iframe>
+                        <iframe width="460" height="281" src="//player.vimeo.com/video/95751766"
+                        frameborder="0" allowfullscreen></iframe>
+                  
                   </div>
                   <img src="img/wishes01.jpg">
                   <img src="img/wishes02.jpg">
                   <img src="img/wishes03.jpg">
-                  </div>
+                  <img src="img/wishes04.jpg">
             </article>
       </section>

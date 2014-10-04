@@ -148,6 +148,7 @@
         margin-left:10%;
  /*       padding-right:0%;*/
         text-align:justify;
+
       }
         article#work_details h2{
           font-size: 3vw;
@@ -254,12 +255,14 @@ section#work_img{
         width: 60%;
         padding-top:5%;
         padding-left:19%;
+
       }
         article#work_imgs img{
-          width: 814px;
-          max-width: 101.5%;
-          height:50%;
+          margin-top: 5%;
+          width: 100%;
+          height:40%;
           display: inline-block;
+          margin-bottom:10%;
         }
 
         article#work_imgs .video_container{
@@ -287,14 +290,18 @@ section#work_img{
   section#section_work{
     width: 100%;
     background: linear-gradient( rgba(153,204,255, 0.25), rgba(255, 204, 153, 0.25));
+    padding-top:2%;
+    padding-left:2.5%;
+    padding-bottom:4%;
+
+    /*padding:6px 2% 0% 4%;*/
   }
 
     section#section_work ul#work_list{
-  /*    width: 100%;*/
       height: 18%;
       list-style: none;
       overflow: hidden;
-      display: inline-block;
+      display: flex;
       display: -webkit-box;
       display: -ms-flexbox;
       display: -webkit-flex;
@@ -312,6 +319,7 @@ section#work_img{
           display: inline-block;
           position: relative;
           overflow: hidden;
+          text-decoration:none!important;
         }
       section#section_work ul#work_list li img{
             width: 100%;
@@ -330,26 +338,29 @@ section#work_img{
             }
 
               div.work_detail p.worktitle{
-                margin-top: 0;
+                margin-top: 0px;
+
                 position: relative;
                 width: 100%;
                 background-color: white;
+                opacity:0.8;
               }
+
            
                 div.work_detail p.worktitle span{
                   font-family: "source code pro","sans-serif";
                   color: black;
                   font-weight: bold;
                   text-align: left;
-                  font-size: 1.3em;
+                  font-size: 1.1em;
                   text-transform: uppercase;
                   text-decoration: none!important;
                 }
 
               div.work_detail p.worksubtitle{
-                 margin-top: -10px;
+                margin-top: -12px;
                 font-size:0.8em;
-                font-family: "Karla","sans-serif";
+                font-family: "Merriweather","sans-serif";
                 font-weight: lighter;
                 text-decoration: none;
                 color: black;
@@ -365,13 +376,13 @@ section#work_img{
 
     }
       footer#main_footer p{
-              text-shadow: 1px 1px 8px #f1f1f1;
+              text-shadow: 1px 1px 2px #f1f1f1;
               font-family:"Montserrat", Helvetica, sans-serif;
               text-align: left;
               text-transform: uppercase;
               letter-spacing:0.2em;
               font-size: 0.9em;
-              color: black;
+              color: #aaaaaa;
               padding-left: 34%;
               padding-top:2%;
       }

@@ -11,8 +11,8 @@
                      a photographic and cinematographic technique by adding a camera function. 
                      This project is made by Openframeworks.</p>
             </article>
-            <article>
 
+            <article id ="toolinks">
                  <div class="toolinks">
                         <h1><i class="fa fa-cog"></i>&nbsp;&nbsp;TECH COMPONENTS</h1>
                         <h4 class="tool">OpenFrameworks Toolkit</h4>
@@ -20,17 +20,20 @@
                   </div>
             </article>
             
-            <section id="work_img">
+           <article id ="project_features">
+           <div id ="links">
+            <h1><a target="_blank" href="https://github.com/">Source Code is available on Github<a></h1>
+          </div>
+          </aarticle>
+        </section>
+
+
+<section id="work_img">
             <article id="work_imgs">
                   <div class="video_container">
-                        <iframe width="500" height="281" src="//player.vimeo.com/video/81558133" frameborder="0" allowfullscreen></iframe>
+                        <iframe width="460" height="281" src="//player.vimeo.com/video/81558133" frameborder="0" allowfullscreen></iframe>
                   </div>
                   <img src="img/scan01.jpg">
                   <img src="img/scan02.jpg">
                   <img src="img/scan3.jpg">
             </article>
-      </section>
-           <article id ="project_link">
-            <p><a target="_blank" href="https://github.com/">Source Code is available on Github</a></p>
-          </article>
-</section>
