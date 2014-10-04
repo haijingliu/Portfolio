@@ -1,31 +1,31 @@
 
 <?php include_once 'includes/nav.php' ?>
+      
       <section id="main">
-
       <section id="about">
          <p style="font-weight:bold;font-size:large">Hello, there &nbsp;&nbsp;<i class="fa fa-smile-o"></i></p> 
-         <p>This is <span class="highlight" style="font-weight:bold, font-size:large; " > Haijing (海静)</span>&nbsp;a designer mainly for interactions.</p><p>I was born&raised in Chengdu Mainland China,
+         <p>This is <span class="highlight" style="font-weight:bold, font-size:large; " > Haijing (海静)</span> &nbsp;a designer mainly for interactions.</p><p>I was born&raised in Chengdu Mainland China,
          currently New York City based.</p>
-         <P>I have just finished my MFA Degree work at <a href="http://www.newschool.edu/parsons/mfa-design-technology/" target="_blank" style="text-decoration: none; color: #000000 "> Parsons MFAD+T</a>, and is looking for more opportunities to extend my skill as an interaction designer + (slight) developer in the States.</p>
+         <P>I have just finished my MFA Degree work at <a  href="http://www.newschool.edu/parsons/mfa-design-technology/" target="_blank" style="text-decoration: none; color: #000000 "> Parsons MFAD+T</a>, and is looking for more opportunities to extend my skill as an interaction designer + (slight) developer in the States.</p>
          <p>During the two-year MFA experience at Parsons I have shifted my interests from communication design (BA) into</p>
          &nbsp;
          <span id ="in"></span></p>
 
-         <p>with innovative/aesthetic solution</p>
+         <p>with innovative/aesthetical solutions</p>
 
-      Drop me a line&nbsp;
+      <p>drop me a line&nbsp;
       <a href= "haijing@haijing.info" target="_blank" style="text-decoration: none; color: #000000 " ><i class="fa fa-file-text"></i></a>&nbsp;&nbsp;&nbsp;
       Get social &nbsp;
-      <a href="https://github.com/carrieriot5" target="_blank" style="text-decoration: none; color: #000000 " ><i class="fa fa-github fa-lg"></i></a>&nbsp;
-      <a href="https://twitter.com/charl28th" target="_blank" style="text-decoration: none; color: #000000 " ><i class="fa fa-twitter fa-lg"></i></a>&nbsp;
-      <a href="instagram.com/haijing28" target="_blank" style="text-decoration: none; color: #000000 " ><i class="fa fa-instagram fa-lg"></i></a>&nbsp;
-      ,</article> &nbsp; + Stay tuned <a href="http://www.last.fm/user/umaloto" target="_blank" style="text-decoration: none; color: #000000 " ><i class="fa fa-music"></i>
-      </p></a>
-          <p>I am seeking a good team / available for collaborative projects</p>
-          
+      <a href="https://github.com/carrieriot5" target="_blank" style="text-decoration: none; color: #000000 " ><i class="fa fa-github "></i></a>&nbsp;
+      <a href="https://twitter.com/charl28th" target="_blank" style="text-decoration: none; color: #000000 " ><i class="fa fa-twitter "></i></a>&nbsp;
+      <a href="instagram.com/haijing28" target="_blank" style="text-decoration: none; color: #000000 " >
+      <i class="fa fa-instagram "></i></a>&nbsp;&nbsp; + Stay tuned&nbsp;
+      <a href="http://www.last.fm/user/umaloto" target="_blank" style="text-decoration: none; color: #000000" >
+      <i class="fa fa-music"></i></a>
+      </p>
+          <p>currently seeking a good team + available for collaborative projects with minded people.</p>   
       </section>
-         
-      </section>
+     </section>
 
 
 <section id="section_work">
@@ -46,7 +46,7 @@
    <img src="img/thumbs/instantscan.png">
    <div class="work_detail">
    <p class="worktitle" style="text-decoration:none;"><span>Instant Scan</span></p>
-   <p class="worksubtitle" style="text-decoration:none;">Openframeworks / Creative Coding</p>
+   <p class="worksubtitle" style="text-decoration:none;">Software Art/Creative Coding</p>
 <div>
 
 </a>

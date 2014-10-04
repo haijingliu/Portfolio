@@ -8,7 +8,9 @@ var b = 0;
 var counter = 100;
 
 var MF= document.getElementById('main_footer');
-var Nav= document.getElementById('main_nav')
+var Nav= document.getElementById('main_nav');
+var Links= document.getElementById('links');
+
 setInterval( changeColor, 1000/20 );
 function changeColor() {   
   r = Math.floor( Math.sin( counter ) * 10 + 230 );
@@ -18,6 +20,7 @@ function changeColor() {
   
   main_footer.style.backgroundColor = "rgb(" + r + "," + g + "," + b + ")"; 
   main_nav.style.backgroundColor = "rgb(" + r + "," + b + "," + g + ")"; 
+  links.style.backgroundColor = "rgb(" + r + "," + b + "," + g + ")";
   
   counter += 0.0125;
 };
@@ -51,7 +54,6 @@ var newDo = window.setInterval( function(){
    var num = Math.floor(Math.random() * do_list.length);
    Do.innerHTML = do_list[num];
 }, 1400);
-
 
 
 

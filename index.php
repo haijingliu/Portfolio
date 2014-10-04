@@ -33,9 +33,10 @@
 		<link rel="stylesheet" href="css/font-awesome.min.css" type="text/css" media="screen, projection">
 
 		<!-- google webfonts-->
-		<link href='http://fonts.googleapis.com/css?family=Source+Code+Pro' rel='stylesheet' type='text/css'>
-		<link href='http://fonts.googleapis.com/css?family=Karla' rel='stylesheet' type='text/css'>
-        <link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Source+Code+Pro' rel='stylesheet' type='text/css'> <!--forlinksinworkpage -->
+		<link href='http://fonts.googleapis.com/css?family=Karla' rel='stylesheet' type='text/css'><!--for about -->
+        <link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'> <!--for header & footer-->
+        <link href='http://fonts.googleapis.com/css?family=Merriweather' rel='stylesheet' type='text/css'><!--for workpage text-->
 		<!-- Js code-->
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	    <!--JS code-->
