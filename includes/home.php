@@ -46,7 +46,7 @@
    <img src="img/thumbs/instantscan.png">
    <div class="work_detail">
    <p class="worktitle" style="text-decoration:none;"><span>Instant Scan</span></p>
-   <p class="worksubtitle" style="text-decoration:none;">Software Art/Creative Coding</p>
+   <p class="worksubtitle" style="text-decoration:none;">Software Art</p>
 <div>
 
 </a>
