@@ -56,9 +56,10 @@
 
     section#about p{
       text-align: left;
-      font-size: 1.1em;
+      font-size: 1em;
       letter-spacing:0.005em;
       font-family: "Karla" Helvetica, sans-serif;
+      
       text-align: left;
     }
 
@@ -132,7 +133,7 @@
   }
 
     section#work_content{
-      padding: 50px 10px;
+      padding: 100px 10px;
       display: inline-block;
       display: -webkit-box;
       display: -ms-flexbox;
@@ -143,7 +144,7 @@
 
       article#work_details{
         color: black;
-        width: 60%;
+        width: 50%;
         padding-left: 8%;
         margin-left:10%;
  /*       padding-right:0%;*/
@@ -151,7 +152,7 @@
 
       }
         article#work_details h2{
-          font-size: 3vw;
+          font-size: 2vw;
        }
         article#work_details h3{
           color:#00b6fb;
@@ -166,7 +167,7 @@
         
         article#toolinks{
           width:30%;
-          padding:145px 10px;
+          padding:80px 10px;
           margin-left:20px;
           font-family: "Karla", Helvetica, sans-serif;
           padding-right:3%;
@@ -185,22 +186,19 @@
             font-size:0.8vw;
         }
 
+
 /*-------- features &links --------*/
         article#project_features{
          width: 50% ;  
          padding:145px 15px;
-        
-    
         }
       
        div#features{ 
         font-family:"karla",Helvetica, sans-serif;
-        
-         font-size: 0.8vw;      
+        font-size: 0.8vw;      
         color:#00b6fb;
         text-decoration:none!important;
        }
-
 
        div#links{
         padding:3%;
@@ -212,6 +210,7 @@
         font-size:1vw;
         text-decoration: none!important;
       }
+
 
 
 /*
@@ -242,9 +241,6 @@
 */
 
 
-
-
-
 /*---------section of work imgs & videos------*/
 
 section#work_img{
@@ -258,11 +254,11 @@ section#work_img{
 
       }
         article#work_imgs img{
-          margin-top: 5%;
-          width: 100%;
-          height:40%;
+          margin-top: 3%;
+          width: 80%;
+          height:30%;
           display: inline-block;
-          margin-bottom:10%;
+          margin-bottom:5%;
         }
 
         article#work_imgs .video_container{
@@ -285,7 +281,6 @@ section#work_img{
 
   
 
-
  /*-----------//working list section---------------*/
   section#section_work{
     width: 100%;
@@ -293,8 +288,8 @@ section#work_img{
     padding-top:2%;
     padding-left:2.5%;
     padding-bottom:4%;
-
     /*padding:6px 2% 0% 4%;*/
+
   }
 
     section#section_work ul#work_list{
@@ -309,9 +304,9 @@ section#work_img{
       flex-flow: wrap row;
     }
       section#section_work ul#work_list li.each_work{
-        width: 16%;
-        margin-left:12%;
-        padding-top:3%;
+        width: 35%;
+        margin-left:10%;
+        padding-top:5%;
         overflow: hidden;
       }
       a.work_link{

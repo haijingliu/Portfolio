@@ -6,17 +6,15 @@
       </header>
       <section id="work_content">
             <article id="work_details">
-                  <h2>Copter Wish</h2>
-                  <h3>Physical Interface &Interactive Datavisualization ｜2014</h3>
-                
+                 <h2>Copter Wish</h2>
+                 <h3>Physical Interface &Interactive Datavisualization ｜2014</h3>
                  <p1><p>CopterWish is a tangible Interface which enables the user to literally grab the latest wishes from the Internet(twitter) in a worldwide landscape.</p>
                  <p>The bamboo copter in east asia, pronounced as “zhuqingting” in Mandarin Chinese and “taketombo” in Japanese is an ancient children play that flies up when its shaft is rapidly spun. This object contains a metaphor of good bliss or wish.</p>
                  <p>Using the object as a form to trigger an intriguing interaction with internet data, this interaction subverts the perception between modern electronic devices and their users, hence drawing an effective connection among data and its internet users.</p>
                  <p>In critiquing the modern HCI interaction and a general usage of social networks, this interface is more emphasizing on an aesthetic and poetic experience to explore a physical and haptic interaction with the user-generated data from the internet, as well as to provide participants a co-related emotional experience. </p>
                  <p>This phenomena is parallel to the current generation within the ever emergent globalized tendency. Accurate real-time, individually expression, hybrid geolocations, decentralized power and rights are signs of this contemporary networking experience.</p>
                  <p>My original intention is to create a nostalgic interaction mode instead of the touch or click triggering process,and to allow users who constantly in contact with modern HCI interface for many efficient purpose to (re)gain a physically playful experience that this generation owed decades ago.</p>
-                 <p>This project is also my little satirical concern on how modern technology (either the social media networks or the devices) shaping humanbeings interaction modes with both gadgets and social-networking ties.</p></p1>
-                 
+                 <p>This project is also my little satirical concern on how modern technology (either the social media networks or the devices) shaping humanbeings interaction modes with both gadgets and social-networking ties.</p></p1>   
             </article>
 
             <article id ="toolinks">
@@ -46,21 +44,21 @@
             <h1><a style=text-decoration:none; target="_blank" href="http://haijing.info">Checkout the website documentations</a>
             <a style=text-decoration:none; target="_blank" href="https://github.com/carrieriot5">Source Code is available on Github</a>
             <h1>
-          
             </div>
           </article>
-</section>
+       </section>
 
 <section id="work_img">
             <article id="work_imgs">
                   <div class="video_container">
                         <iframe width="460" height="281" src="//player.vimeo.com/video/95751766"
                         frameborder="0" allowfullscreen></iframe>
-                  
                   </div>
-                  <img src="img/wishes01.jpg">
-                  <img src="img/wishes02.jpg">
-                  <img src="img/wishes03.jpg">
-                  <img src="img/wishes04.jpg">
+                  
+                  <img src="img/imgs/copterwish/schematic.jpg">
+                  <img src="img/imgs/copterwish/exhibition.jpg">
+                  <img src="img/imgs/copterwish/exhibition1.jpg">
+                  <img src="img/imgs/copterwish/exhibition3.jpg">
+                  <img src="img/imgs/copterwish/interface.jpg">
             </article>
       </section>

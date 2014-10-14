@@ -23,7 +23,7 @@ function changeColor() {
   main_nav.style.backgroundColor = "rgb(" + r + "," + b + "," + g + ")"; 
   links.style.backgroundColor = "rgb(" + r + "," + b + "," + g + ")";
   
-  counter += 0.0125;
+  counter += 0.01;
 };
 
 
@@ -55,7 +55,6 @@ var newDo = window.setInterval( function(){
    var num = Math.floor(Math.random() * do_list.length);
    Do.innerHTML = do_list[num];
 }, 1400);
-
 
 
 

@@ -13,24 +13,21 @@
                         <h4 class="tool">workshop</h4>
                   </div>
                   <p>
-                  if
             </p>
+            </article>
             
-            </article>
-            </article>
+
+                 <article id ="project_features">
+           <div id ="links">
+            <h1>  <a target="_blank" href="http://captivatedbyher.vice.com/">Checkout the documentary website</a></h1>
+          </div>
+          </article>
+        </section>
             <article id="work_imgs">
-                  <!-- <div class="video_container">
-                        <iframe width="500" height="281" src="//player.vimeo.com/video/95751766" frameborder="0" allowfullscreen></iframe>
-                  </div> -->
-                  <img src="img/workshop.jpg">
-                  <img src="img/workshop.jpg">
-                  <img src="img/workshop.jpg">
+                  <img src="img/imgs/idhub/idhub1.jpg">
+                  <img src="img/imgs/idhub/idhub2.jpg">
+                  <img src="img/imgs/idhub/idhub.png">
+                  <img src="img/imgs/idhub/idhub9.png">
             </article>
-      </section>
-      <footer class="project_footer" style="background: #ff9999">
-            <a target="_blank" href="http://captivatedbyher.vice.com/">Checkout the documentary website</a>
-      </footer>
-      <footer class="project_footer" style="background: #00ccff"><!-- 
-            <a target="_blank" href="https://github.com/">Source Code is available on Github</a> -->
-      </footer>
-</div>
+
+   
