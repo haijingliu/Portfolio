@@ -13,11 +13,9 @@
                   users.</p>
 
                   <p>In using of the websocket technology, users can spray the brush on the canvas at the time!</p>
-                  
                   <P>Thanks for Open every source, the brush code is in using a codepen source via</p><p> http://codepen.io/hygine/pen/yIvKm</P></p1>
             </article>
             
-
 
         <article id ="toolinks">
                   <div class="toolinks"> 
@@ -27,12 +25,10 @@
                         <h4 class="tool">Javascript</h4>
                         <h4 class="tool">Node.js</h4>
                         <h4 class="tool">WebsocketApi</h4>
-          
                   </div>
-
-    <div id ="links">
+                   <div id ="links">
                         <h1><p><a target="_blank" href="http://sprayit.herokuapp.com/">Start to Spray!</a></p>
-                        <a target="_blank" href="https://github.com/">Source Code is available on Github</a></h1>
+                        <a target="_blank" href="https://github.com/haijingliu/sprayIt">Source Code is available on Github</a></h1>
              </div>
              </article>
             </section>

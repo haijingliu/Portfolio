@@ -42,7 +42,7 @@
 
             <div id="links">
             <h1><a style=text-decoration:none; target="_blank" href="http://haijing.info">Checkout the website documentations</a>
-            <a style=text-decoration:none; target="_blank" href="https://github.com/carrieriot5">Source Code is available on Github</a>
+            <a style=text-decoration:none; target="_blank" href="https://github.com/haijingliu/Thesis">Source Code is available on Github</a>
             <h1>
             </div>
           </article>

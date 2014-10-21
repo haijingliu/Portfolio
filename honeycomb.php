@@ -1,8 +1,5 @@
 <?php include_once 'includes/nav.php' ?>
 <div id="project_wrapper">
-    <!--   <header>
-            <img src="img/wishesTitle.jpg">
-      </header> -->
       <section id="work_content">
             <article id="work_details">
                  <h2>HoneyComb</h2>
@@ -12,7 +9,6 @@
                  we want to create centrical experiences to better understand user-defined landscapes.</p>
                  How do users receive and share current events and updates already? What is missing or can be added? Where does a user see himself/herself in this experience?</p>
                  Show categorically ordered news ie. any news aggregator homepage like google news. While these types of aggregators provide an organized approach for searching for news, they lack a means of personally relating to these updates.</p>
-                 
                  With a visualized mapping of this information around a user, we want to create centrical experiences to better understand user-defined landscapes. News that is contextually aware, not only allows you to stay up to date with the information that matters to you,
                  but also curates a narrative of your environments.</p>
                  </p1>

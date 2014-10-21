@@ -41,7 +41,7 @@
 </li>
 
 <li class = "each_work">
-<a class="work_link" href="?page=sprayIt">
+<a class="work_link" href="?page=sprayit">
    <img src="img/thumbs/sprayit.jpg">
    <div class="work_detail">
    <p class="worktitle"><span>Spray It</span></p>

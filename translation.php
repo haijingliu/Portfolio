@@ -13,7 +13,7 @@
             </article>
             <article id ="toolinks">
             <div id ="links">
-                        <a target="_blank" href=“”>web press</a></h1>
+                        <a target="_blank" href=“http://haijingliu.github.io/translation/”>web press</a></h1>
              </div>
              </article>
             </section>
