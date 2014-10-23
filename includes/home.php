@@ -16,6 +16,7 @@
       <p>drop me a line&nbsp;
       <a href= "haijing@haijing.info" target="_blank" style="text-decoration: none; color: #000000 " ><i class="fa fa-file-text"></i></a>&nbsp;&nbsp;&nbsp;
       Get social &nbsp;
+      <a href="https://www.linkedin.com/pub/haijing-liu/42/96b/6b7" target="_blank" style="text-decoration: none; color:#000000"><i class ="fa fa-linkedin"></i></a>&nbsp;
       <a href="https://github.com/carrieriot5" target="_blank" style="text-decoration: none; color: #000000 " ><i class="fa fa-github "></i></a>&nbsp;
       <a href="https://twitter.com/charl28th" target="_blank" style="text-decoration: none; color: #000000 " ><i class="fa fa-twitter "></i></a>&nbsp;
       <a href="instagram.com/haijing28" target="_blank" style="text-decoration: none; color: #000000 " >
@@ -23,7 +24,7 @@
       <a href="http://www.last.fm/user/umaloto" target="_blank" style="text-decoration: none; color: #000000" >
       <i class="fa fa-music"></i></a>
       </p>
-          <p>currently seeking a good team + available for collaborative projects with minded people.</p>   
+       <p>currently seeking a good team + available for collaborative projects with minded people.</p>   
       </section>
      </section>
 
@@ -62,7 +63,7 @@
 
 <li class="each_work">
 <a class="work_link" href="?page=instantScan">
-   <img src="img/thumbs/instantscan.png">
+   <img src="img/thumbs/creativecoding.png">
    <div class="work_detail">
    <p class="worktitle" ><span>Creative Coding</span></p>
    <p class="worksubtitle">Software Art</p>
@@ -113,7 +114,7 @@
 </div>
 </a>
 </li>
-<!-- 
+
 <li class="each_work">
 <a class="work_link" href="?page=spin/spin">
 <img src="img/thumbs/spinspin.png">
@@ -122,7 +123,7 @@
 <p class="worksubtitle" >socialIntervention</p>
 </div>
 </a>
-</li> -->
+</li>
 
 <li class="each_work">
 <a class="work_link" href="?page=datavis">

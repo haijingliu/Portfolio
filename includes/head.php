@@ -1,7 +1,7 @@
 <head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="chrome=1"> <!--??-->
-<title>Haijing &hearts; Projects</title>
+<title>wisedummy</title>
 <meta name="description" content= "Haijing's Portfolio."/>
 <meta name="keywords" content= "design portfolio"/>
 <meta name="owner" content="hello@haijing.info"/>

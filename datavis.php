@@ -10,6 +10,7 @@
 <section id="work_img">
             <article id="work_imgs">
                   <h1>Tracking Dreams </h1>
+                  <P>how daily routines affect dreams</P>
                   <p>Data Visualization of how daily routines affect dreams. </p>
                   <img src="img/imgs/datavis/dream.jpg">
                   <h1>Map of Milk</h1>

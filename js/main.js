@@ -22,7 +22,7 @@ function changeColor() {
   main_footer.style.backgroundColor = "rgb(" + r + "," + g + "," + b + ")"; 
   main_nav.style.backgroundColor = "rgb(" + r + "," + b + "," + g + ")"; 
   links.style.backgroundColor = "rgb(" + r + "," + b + "," + g + ")";
-  
+
   counter += 0.01;
 };
 
