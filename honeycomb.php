@@ -32,7 +32,7 @@
           </article>
        </section>
 
-<section id="work_img">
+        <section id="work_img">
             <article id="work_imgs">
                   <div class="video_container">
                         <iframe width="460" height="281" src="//player.vimeo.com/video/64559293"

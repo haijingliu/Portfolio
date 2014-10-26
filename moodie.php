@@ -8,8 +8,9 @@
                  <p1><p>Moodie is a simple mood management tool </p>
                  <p> moodie is your coach fellow who lives in 2D that keeps recording and managing your moods in a multi-functional way. 
                  Moodie knows your feelings in the past, present and would give your good suggestions for your future benefits. 
-                 Get your friend now ! always enjoy a good mood. 
-                 </p>
+                 Get your friend now ! </p>
+                 <P>always enjoy a good mood. </P>
+                
                  </p1>
 
             </article>

@@ -116,10 +116,10 @@
 </li>
 
 <li class="each_work">
-<a class="work_link" href="?page=spin/spin">
+<a class="work_link" href="?page=spinspin">
 <img src="img/thumbs/spinspin.png">
 <div class="work_detail">
-<p class="worktitle" ><span>spin/spin</span></p>
+<p class="worktitle" ><span>spinspin</span></p>
 <p class="worksubtitle" >socialIntervention</p>
 </div>
 </a>
@@ -129,7 +129,17 @@
 <a class="work_link" href="?page=datavis">
 <img src="img/thumbs/datavis.png">
 <div class="work_detail">
-<p class="worktitle"><span>datavis and Information Design Collection</span></p>
+<p class="worktitle"><span>datavis / information design collection</span></p>
+</div>
+</a>
+</li>
+
+<li class="each_work">
+<a class="work_link" href="?page=datavis">
+<img src="img/thumbs/2010thesis.png">
+<div class="work_detail">
+<p class="worktitle"><span>BFA Thesis</span></p>
+<p class="worksubtitle" >Branding Strategy of Recycling Products</p>
 </div>
 </a>
 </li>

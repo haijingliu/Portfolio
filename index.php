@@ -21,17 +21,12 @@
 
 	   <!--- end container -->
 	   <?php include_once 'includes/footer.php' ?> 
-
-
-
-	    <!--css code-->
+       <!--css code-->
 		<link rel ="stylesheet" href="css/main.css">
 		<link rel ="stylesheet" href="css/normalize.css">
 		<link rel ="stylesheet" hred="css/normalize.min.css">
-
 		<!--font awesome-->
 		<link rel="stylesheet" href="css/font-awesome.min.css" type="text/css" media="screen, projection">
-
 		<!-- google webfonts-->
 		<link href='http://fonts.googleapis.com/css?family=Source+Code+Pro' rel='stylesheet' type='text/css'> <!--forlinksinworkpage -->
 		<link href='http://fonts.googleapis.com/css?family=Karla' rel='stylesheet' type='text/css'><!--for about -->
@@ -40,8 +35,7 @@
 		<!-- Js code-->
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	    <!--JS code-->
-	    <script type= "text/javascript" src="js/main.js"></script>
-	    
+	    <script type= "text/javascript" src="js/main.js"></script>   
 	    <!--- google analytics-->
 	    <script>
 		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -51,7 +45,6 @@
 
 		  ga('create', 'UA-55279323-1', 'auto');
 		  ga('send', 'pageview');
-
 		</script>
       
       </body>
