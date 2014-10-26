@@ -27,12 +27,13 @@
   }
 
   div#container{
-    width: 100%;
-    background:#f2f2eb;
+    width: 100%;/*
+    background:#f2f2eb;*/
+   background: linear-gradient( rgba(255, 204, 153, 0.25),rgba(153,204,255, 0.25));
   }
 
-  /*landing page : home.php*/
 
+/*landing page : home.php*/
     section#main{
       border-style: solid;
       border-width: 1.4px;
@@ -42,7 +43,6 @@
       background-color: white;
       box-shadow: 1px 5px 50px #99ccff;
       display: inline-block;
-
     }
     
 /* section#main img{
@@ -88,8 +88,7 @@
       webkit-flex-direction: row;
     }
       .nav_list{
-        position: fixed;/*
-        width: 100%;  parameter for content fix*/
+        position: fixed;
         z-index: 99999;
       }
 
@@ -100,7 +99,7 @@
 
       nav#main_nav ul li.link{
             padding: 10px;
-            font-size: 1.2em;
+            font-size: 1em;
             font-family: "Montserrat",sans-serif;
             text-align:center;
         }
@@ -145,8 +144,8 @@
 
       article#work_details{
         color: black;
-        width: 50%;
-        padding-left: 8%;
+        width: 70%;
+        padding-left: 2%;
         margin-left:10%;
     /*  padding-right:0%;*/
         text-align:justify;
@@ -167,7 +166,7 @@
 /*------------------toolinks--------------*/
         
         article#toolinks{
-          width:30%;
+          width:20%;
           padding:80px 10px;
           margin-left:20px;
           font-family: "Karla", Helvetica, sans-serif;
@@ -285,26 +284,27 @@ section#work_img{
  /*-----------//working list section---------------*/
   section#section_work{
     width: 100%;
-    background: linear-gradient( rgba(153,204,255, 0.25), rgba(255, 204, 153, 0.25));
+    background: white;
     padding-top:2%;
     padding-left:2.5%;
     padding-bottom:4%;
-    /*padding:6px 2% 0% 4%;*/
 
   }
-   #section_work a:hover{
-       background:#e096ff;
+  #section_work a:hover{
+       background:linear-gradient( rgba(153,204,255, 0.25), rgba(255, 204, 153, 0.25));
+       transition: 0.2s background-color;
        }
 
-
-
+  
 
     section#section_work ul#work_list{
-      height: 18%;
+      width:100%;
+      height: auto%;
       list-style: none;
       overflow: hidden;
       display: flex;
       display: -webkit-box;
+      display: -moz-box;
       display: -ms-flexbox;
       display: -webkit-flex;
       -webkit-flex-flow: wrap row;
@@ -312,10 +312,11 @@ section#work_img{
     }
 
 
+
       section#section_work ul#work_list li.each_work{
-        width: 35%;
-        margin-left:10%;
-        padding-top:5%;
+        width: 20%;
+        margin-left:5%;
+        padding-top:2%;
         overflow: hidden;
       }
 
@@ -330,47 +331,54 @@ section#work_img{
       section#section_work ul#work_list li img{
             width: 100%;
             height: auto;
+            margin-bottom: -4px;
         }
+
+      section#section_work ul#work_list li:hover img{
+              -webkit-filter: blur(1px);
+              -moz-filter: blur(1px);
+              filter: blur(1px);
+              background:linear-gradient( rgba(153,204,255, 0.25), rgba(255, 204, 153, 0.25));
+              z-index: -1;
+            }
+
+
 
       div.work_detail{
             width: 100%;
             height: 100%;
             position:relative;
             z-index: 1000;
-
+            text-align: left;
+            background: linear-gradient( rgba(153,204,255, 0.25), rgba(255, 204, 153, 0.25));
           }
       
               div.work_detail p.worktitle{
                 margin-top: 0px;
                 position: relative;
                 width: 100%;
-              /*  background-color: white;
-                opacity:0.8;*/
               }
 
-
-              a.ex3:hover, a.ex3:active {background: red;}
-
-           
                 div.work_detail p.worktitle span{
                   font-family: "source code pro","sans-serif";
                   color: black;
                   font-weight: bold;
                   text-align: left;
-                  font-size: 1.1em;
+                  font-size: 1em;
                   text-transform: uppercase;
                   text-decoration: none!important;
                 }
 
               div.work_detail p.worksubtitle{
                 margin-top: -12px;
-                font-size:0.8em;
+                font-size:0.7em;
                 font-family: "Merriweather","sans-serif";
                 font-weight: lighter;
                 text-decoration: none;
                 color: black;
               }
 
+        
  /*--------///footer///----------*/
 
     footer#main_footer {
@@ -386,7 +394,7 @@ section#work_img{
               text-align: left;
               text-transform: uppercase;
               letter-spacing:0.2em;
-              font-size: 0.9em;
+              font-size: 0.8em;
               color: #aaaaaa;
               padding-left: 34%;
               padding-top:2%;

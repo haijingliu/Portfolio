@@ -20,7 +20,7 @@
 	   </div> 
 
 	   <!--- end container -->
-	   <?php include_once 'includes/footer.php' ?> 
+	    <?php include_once 'includes/footer.php' ?> 
        <!--css code-->
 		<link rel ="stylesheet" href="css/main.css">
 		<link rel ="stylesheet" href="css/normalize.css">
@@ -36,6 +36,8 @@
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	    <!--JS code-->
 	    <script type= "text/javascript" src="js/main.js"></script>   
+	   
+
 	    <!--- google analytics-->
 	    <script>
 		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -46,7 +48,7 @@
 		  ga('create', 'UA-55279323-1', 'auto');
 		  ga('send', 'pageview');
 		</script>
-      
       </body>
+
       </html>
 

@@ -20,7 +20,7 @@
 
             <article id ="project_features">
             <div id="features">
-            <p><i class="fa fa-heart-o"></i>&nbsp;&nbsp;ACKNOWLEDGMENTS</p>
+            <p><i class="fa fa-heart-o"></i> ACKNOWLEDGMENTS</p>
             <p>This Project is in collaboration with <br> <a style=text-decoration:none; href="http://www.salomeasega.com/" >Salome Asega</a> and 
             <a style=text-decoration:none; href="http://ilovesamdesign2.com/">Samuel Lee Kwon</a></p> under the Mozzila Lab experiments
             </div> 

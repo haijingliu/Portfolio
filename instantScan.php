@@ -11,7 +11,6 @@
                      a photographic and cinematographic technique by adding a camera function.</p>
                      This project is made by Openframeworks.</p1>
             </article>
-
         </section> 
 
         <section id="work_img">

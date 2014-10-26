@@ -135,7 +135,7 @@
 </li>
 
 <li class="each_work">
-<a class="work_link" href="?page=datavis">
+<a class="work_link" href="?page=hanami">
 <img src="img/thumbs/2010thesis.png">
 <div class="work_detail">
 <p class="worktitle"><span>BFA Thesis</span></p>

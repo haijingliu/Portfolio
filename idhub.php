@@ -1,9 +1,7 @@
 <?php include_once 'includes/nav.php' ?>
 
 <div id="project_wrapper">
-    <!--   <header>
-            <img src="img/idhub.jpg">
-      </header> -->
+
       <section id="work_content">
             <article id="work_details">
                   <h2>IdHub</h2>
@@ -12,12 +10,9 @@
                         <h4 class="tool">Concept Development</h4>
                         <h4 class="tool">workshop</h4>
                   </div>
-                  <p>
-            </p>
             </article>
-            
 
-                 <article id ="project_features">
+           <article id ="project_features">
            <div id ="links">
             <h1>  <a target="_blank" href="http://captivatedbyher.vice.com/">Checkout the documentary website</a></h1>
           </div>

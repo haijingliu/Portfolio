@@ -1,5 +1,4 @@
 <?php include_once 'includes/nav.php' ?>
-
 <div id="project_wrapper">
       <section id="work_content">
             <article id="work_details">
@@ -22,13 +21,9 @@ Facelook is made for inquiring the privacy and identity issue triggered by socia
             </div>
           </article>
        </section>
-          
-
-
             <section id="work_img">
             <article id="work_imgs">
-
-                  <img src="img/imgs/facelook/facelook.png">
+                 <img src="img/imgs/facelook/facelook.png">
                   <img src="img/imgs/facelook/facelook2.png">
             </article>
       </section>

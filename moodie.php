@@ -18,8 +18,7 @@
             <article id ="toolinks">
             </article>
                 <div id ="links">
-                
-                        <a target="_blank" href="https://github.com/haijingliu/moodie">Source Code is available on Github</a></h1>
+                <a target="_blank" href="https://github.com/haijingliu/moodie">Source Code is available on Github</a></h1>
              </div>
           </article>
        </section>
