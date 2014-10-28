@@ -2,7 +2,6 @@
 	<html>
 
 	<?php include 'includes/head.php' ?>
-	
 	<body>
 		<div id='container'>
 			<?php 
@@ -18,9 +17,13 @@
 			  }
 	   ?>
 	   </div> 
-
 	   <!--- end container -->
+       
+       <?php include_once 'includes/section_work.php'?> 
+
 	    <?php include_once 'includes/footer.php' ?> 
+
+
        <!--css code-->
 		<link rel ="stylesheet" href="css/main.css">
 		<link rel ="stylesheet" href="css/normalize.css">
