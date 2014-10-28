@@ -19,7 +19,7 @@
 	   </div> 
 	   <!--- end container -->
        
-       <?php include_once 'includes/section_work.php'?> 
+       <?php include_once 'includes/section_work.php';?> 
 
 	    <?php include_once 'includes/footer.php' ?> 
 
