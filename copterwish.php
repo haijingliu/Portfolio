@@ -35,7 +35,7 @@
             <p><i class="fa fa-heart-o"></i>&nbsp;&nbsp;ACKNOWLEDGMENTS</p>
             <p>Thesis Instructor  <br> <a style=text-decoration:none; href="http://www.melaniecrean.com/" >Melanie Crean</a> <a style=text-decoration:none; href="http://www.andrewzornoza.com/">Andrew Zornoza</a></p>
             <p>Special thanks to  <br> <a style=text-decoration:none; href="http://jos.ph">Joe Saavedra</a> <a style=text-decoration:none; href="http://owenherterich.com/">Owen Herterich</a>
-            <br>for technology instructions and guidance</p>
+            <br>for technology guidance</p>
             <p>Development Credits<br>
             <a style=text-decoration:none; href="http://wentin.co/">Wengting Zhang</a>
             <br>for twitterstream API methodology implement</p>  
@@ -52,9 +52,18 @@
 <section id="work_img">
             <article id="work_imgs">
                   <div class="video_container">
-                        <iframe width="460" height="281" src="//player.vimeo.com/video/95751766"
-                        frameborder="0" allowfullscreen></iframe>
+
+
+                       <iframe src="//player.vimeo.com/video/95751766?color=6cf205" width="460" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/95751766">Copter Wish</a> from <a href="http://vimeo.com/user18234160">charl</a> on <a href="https://vimeo.com">Vimeo</a>.</p>                  
+
+
+                     <!--    <iframe width="460" height="281"  frameborder="0" src="//player.vimeo.com/video/95751766"
+                       allowfullscreen></iframe> -->
                   </div>
+
+
+
+
                   
                   <img src="img/imgs/copterwish/schematic.jpg">
                   <img src="img/imgs/copterwish/exhibition.jpg">

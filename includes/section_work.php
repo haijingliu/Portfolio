@@ -1,5 +1,6 @@
 
 
+<?php include_once 'includes/section_work.php' ?>
       
 <section id="section_work">
 <ul id="work_list">

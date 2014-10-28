@@ -35,12 +35,12 @@ document.getElementById('in').style.fontWeight="bold";
 document.getElementById('in').style.fontSize="larger";
 
 var In= document.getElementById('in');
-var in_list = [ "metaphorical interfaces", "hyper-media communications", "interactive data visualization", " "];
+var in_list = [ "intuitive interfaces", "hyper-media communications", "interactive data visualization", "Internet of Things"];
 
 var newAm = window.setInterval( function() {
    var num = Math.floor(Math.random() * in_list.length);
    In.innerHTML = in_list[num];
-}, 1680);
+}, 1080);
 
 //---*----nav//home//about//changing doing---*---//
 document.getElementById('doing').style.color="black";
@@ -49,13 +49,52 @@ document.getElementById('doing').style.fontWeight="bold";
 document.getElementById('doing').style.fontSize="normal";
 
 var Do= document.getElementById('doing');
-var do_list = [ "circuits designing", "coding", "soldering", "tinkering"];
+var do_list = [ ];
 
 var newDo = window.setInterval( function(){
    var num = Math.floor(Math.random() * do_list.length);
    Do.innerHTML = do_list[num];
 }, 1400);
 
+
+//*---scrolling js----*//
+
+
+$( document ).ready(function() {
+  if(location.hash == "#main"){
+    $('#about').slideDown("slow");
+  };
+});
+
+
+//smooth scrolling
+$(function() {
+  $('a[href*=#]:not([href=#])').click(function() {
+    if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname)
+    {
+      var target = $(this.hash);
+      target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+      if (target.length) {
+        if(target.selector == "#main"){
+          if($(window).scrollTop() > 600){
+            $('#about').slideDown();
+            $('article#logo_wrapper img').addClass('hide');
+          } else {
+            $('#about').slideToggle();
+            $('article#logo_wrapper img').toggleClass('hide');
+          }
+        }
+        $('html,body').animate({
+          scrollTop: target.offset().top-50
+        }, 1000);
+        return false;
+      }
+    }
+  });
+});
+
+
+  
 
 
 
