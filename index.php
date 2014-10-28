@@ -35,11 +35,16 @@
 		<link href='http://fonts.googleapis.com/css?family=Karla' rel='stylesheet' type='text/css'><!--for about -->
         <link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'> <!--for header & footer-->
         <link href='http://fonts.googleapis.com/css?family=Merriweather' rel='stylesheet' type='text/css'><!--for workpage text-->
+		
+        <!-- slides.css-->
+		<link rel ="stylesheet" href="css/slides.css">
+
 		<!-- Js code-->
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	   
-      <!-- JQuery code-->
+       <!-- SlidesJS Required jquery.slides.js -->
 	   <script src="js/jquery.slides.min.js"></script>
+	    <!-- End SlidesJS Required -->
 
 
 	    <!--JS code-->

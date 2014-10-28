@@ -167,6 +167,7 @@
         margin-left:10%;
         text-align:justify;
 
+
       }
         article#work_details h2{
           font-size: 2vw;
@@ -174,10 +175,11 @@
         article#work_details h3{
           color:#00b6fb;
           font-size: 0.9vw;
+        
         }
         
         article#work_details p1{
-           padding-top: 10%;
+         
           font-size: 1.16vw;
         }
 
@@ -198,6 +200,7 @@
           font-size: 1.3vw;
         }
 
+
         div.toolinks h4{
             color:black;
             display: inherit;
@@ -215,7 +218,9 @@
 
 
 /*-------- features &links --------*/
-        article#project_features{
+      
+
+       article#project_features{
          width: 60% ;  
          padding:75px 15px;
         }
@@ -225,14 +230,13 @@
         font-size: 1.1vw;     
         text-decoration:none!important;
        }
-
        div#links{
         padding:3%;
         font-family: "source code pro", Helvetica, sans-serif;
       }
 
       div#links a:link{
-        color:#9D9D9D;
+        color:#444444;
         font-size:1.3vw;
         text-decoration: none!important;
       }
@@ -254,9 +258,7 @@
 
 section#work_img{
      /*   width:100%;*/
-       
-       background-color:#fdfdfd;
-
+        background-color:#fdfdfd;
         padding-bottom:15%;
          display: inline-block;
         box-shadow: 1px 5px 50px #CFD0D1;
@@ -273,10 +275,10 @@ section#work_img{
           margin-top: 5%;
           width: 80%;
           height:80%;
-             box-shadow: 1px 3px 20px #CFD0D1;
         }
 
-        article#work_imgs .video_container{
+        article#work_imgs 
+        .video_container{
           max-width: 100%;
           padding-bottom: 50%;
           margin-bottom: 0px;

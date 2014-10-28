@@ -38,7 +38,7 @@
 
             <article id ="project_features">
             <div id="features">
-            <p><i class="fa fa-heart-o"></i>&nbsp;&nbsp;ACKNOWLEDGMENTS</p>
+            <p><i class="fa fa-gift"></i>&nbsp;&nbsp;ACKNOWLEDGMENTS</i></p>
             <p>Thesis Instructor  <br> <a style=text-decoration:none; href="http://www.melaniecrean.com/" >Melanie Crean</a> <a style=text-decoration:none; href="http://www.andrewzornoza.com/">Andrew Zornoza</a></p>
             <p>Special thanks to  <br> <a style=text-decoration:none; href="http://jos.ph">Joe Saavedra</a> <a style=text-decoration:none; href="http://owenherterich.com/">Owen Herterich</a>
             <br>for technology guidance</p>
@@ -64,10 +64,16 @@
                        <iframe src="//player.vimeo.com/video/95751766?color=6cf205" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                        <p><a href="http://vimeo.com/95751766">Copter Wish</a>from<a href="http://vimeo.com/user18234160">charl</a>on<a href="https://vimeo.com">Vimeo</a>.</p>                  
                   </div>
+            <!--      <dic class = "containers">
+                  <div id="slides"> -->
                   <img src="img/imgs/copterwish/interface.jpg">
                   <img src="img/imgs/copterwish/exhibition.jpg">
                   <img src="img/imgs/copterwish/exhibition1.jpg">
                   <img src="img/imgs/copterwish/exhibition3.jpg">
-                  
+                  <!-- <a href="#" class="slidesjs-previous slidesjs-navigation"><i class="icon-chevron-left icon-large"></i></a>
+                  <a href="#" class="slidesjs-next slidesjs-navigation"><i class="icon-chevron-right icon-large"></i></ a>
+                  <! </div>
+                   </div>
+                   -->
             </article>
       </section>
