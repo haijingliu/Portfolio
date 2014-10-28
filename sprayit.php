@@ -12,7 +12,7 @@
                   This app tries to deliver an online exprience of the New York City Graffiti Culture to the internet 
                   users. </p>
                   <p>In using of the websocket technology, users can spray the brush on the canvas at the same time!</p>
-                  <P>Thanks for Open every source, the brush code is in using a codepen source via</p><p><a style=text-decoration:none; target="_blank" href="http://codepen.io/hygine/pen/yIvKm"></P> a CodePen Source</p1>
+                  <P>Thanks for Open every source, the brush code is in using source via</p><p><a style=text-decoration:none; target="_blank" href="http://codepen.io/hygine/pen/yIvKm"></P>CodePen</p1>
                 
             </article>
             

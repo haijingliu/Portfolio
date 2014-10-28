@@ -18,6 +18,9 @@
                  <p>This project is also my little satirical concern on how modern technology (either the social media networks or the devices) shaping humanbeings interaction modes with both gadgets and social-networking ties.</p></p1>   
             </article>
 
+           
+
+
             <article id ="toolinks">
                   <div class="toolinks"> 
                         <h1><i class="fa fa-cog"></i>&nbsp;&nbsp;TECH COMPONENTS</h1>
@@ -30,6 +33,9 @@
                   </div>
             </article>
 
+
+
+
             <article id ="project_features">
             <div id="features">
             <p><i class="fa fa-heart-o"></i>&nbsp;&nbsp;ACKNOWLEDGMENTS</p>
@@ -41,34 +47,27 @@
             <br>for twitterstream API methodology implement</p>  
             </div> 
 
+
             <div id="links">
-            <h1><a style=text-decoration:none; target="_blank" href="http://haijing.info">Checkout the website documentations</a>
-            <a style=text-decoration:none; target="_blank" href="https://github.com/haijingliu/Thesis">Source Code is available on Github</a>
-            <h1>
+            <h1><a style=text-decoration:none; target="_blank" href="http://haijing.info">Checkout the website documentations.</a><h1>
+            <h1><a style=text-decoration:none; target="_blank" href="https://github.com/haijingliu/Thesis">Source Code is available on Github.</a></h1>
+            
             </div>
           </article>
        </section>
 
 <section id="work_img">
             <article id="work_imgs">
+         
+            <img src="img/imgs/copterwish/schematic.jpg">
                   <div class="video_container">
-
-
-                       <iframe src="//player.vimeo.com/video/95751766?color=6cf205" width="460" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/95751766">Copter Wish</a> from <a href="http://vimeo.com/user18234160">charl</a> on <a href="https://vimeo.com">Vimeo</a>.</p>                  
-
-
-                     <!--    <iframe width="460" height="281"  frameborder="0" src="//player.vimeo.com/video/95751766"
-                       allowfullscreen></iframe> -->
+                       <iframe src="//player.vimeo.com/video/95751766?color=6cf205" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                       <p><a href="http://vimeo.com/95751766">Copter Wish</a>from<a href="http://vimeo.com/user18234160">charl</a>on<a href="https://vimeo.com">Vimeo</a>.</p>                  
                   </div>
-
-
-
-
-                  
-                  <img src="img/imgs/copterwish/schematic.jpg">
+                  <img src="img/imgs/copterwish/interface.jpg">
                   <img src="img/imgs/copterwish/exhibition.jpg">
                   <img src="img/imgs/copterwish/exhibition1.jpg">
                   <img src="img/imgs/copterwish/exhibition3.jpg">
-                  <img src="img/imgs/copterwish/interface.jpg">
+                  
             </article>
       </section>

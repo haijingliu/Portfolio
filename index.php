@@ -23,6 +23,7 @@
        <?php include_once 'includes/section_work.php';?> 
        <?php include_once 'includes/footer.php';?> 
 
+
         <!--css code-->
 		<link rel ="stylesheet" href="css/main.css">
 		<link rel ="stylesheet" href="css/normalize.css">
@@ -36,6 +37,11 @@
         <link href='http://fonts.googleapis.com/css?family=Merriweather' rel='stylesheet' type='text/css'><!--for workpage text-->
 		<!-- Js code-->
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	   
+      <!-- JQuery code-->
+	   <script src="js/jquery.slides.min.js"></script>
+
+
 	    <!--JS code-->
 	    <script type= "text/javascript" src="js/main.js"></script>   
 	   

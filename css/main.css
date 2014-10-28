@@ -133,18 +133,13 @@
 /*----media query---*/
 @media (max-width: 840px) and (min-width: 641px)  {
 
-
 }
 
 @media (max-width: 640px) and (min-width: 300px)  {
   
 
-
 }
   
-
-
-
 
 /*  //PROJECT PAGE// */
  div#project_wrapper{
@@ -157,19 +152,17 @@
   }
 
     section#work_content{
-      width:100%;
-      padding: 100px 10px;
+      padding: 60px 10px;
       display: inline-block;
       display: -webkit-box;
       display: -ms-flexbox;
       display: -webkit-flex;
-      background:linear-gradient( rgba(255, 204, 153, 0.25),rgba(153,204,255, 0.25));;
-
+      background:white;
     }
 
       article#work_details{
         color: black;
-        width: 70%;
+        width: 65%;
         padding-left: 2%;
         margin-left:10%;
         text-align:justify;
@@ -184,7 +177,8 @@
         }
         
         article#work_details p1{
-          font-size: 1vw;
+           padding-top: 10%;
+          font-size: 1.16vw;
         }
 
 /*------------------toolinks--------------*/
@@ -204,7 +198,6 @@
           font-size: 1.3vw;
         }
 
-
         div.toolinks h4{
             color:black;
             display: inherit;
@@ -212,17 +205,24 @@
             font-size:1vw;
         }
 
+  div.toolinks h4:hover{
+    font-weight: bolder;
+      color:white!important;
+      transition: background-color,color 0.5s;
+       background-color:#ee403d;     
+        }
+
+
 
 /*-------- features &links --------*/
         article#project_features{
-         width: 50% ;  
-         padding:145px 15px;
+         width: 60% ;  
+         padding:75px 15px;
         }
       
        div#features{ 
         font-family:"karla",Helvetica, sans-serif;
-        font-size: 0.8vw;      
-        color:#00b6fb;
+        font-size: 1.1vw;     
         text-decoration:none!important;
        }
 
@@ -232,56 +232,48 @@
       }
 
       div#links a:link{
-        color:#000000;
-        font-size:1vw;
+        color:#9D9D9D;
+        font-size:1.3vw;
         text-decoration: none!important;
       }
+     div#links h1 a:hover{ transition:ALL 0.5s;
+      color:white;
+      background-color:#009933;}
 
-      h1.link a:visited{ color:00eb98;}
-        h1.link a:after{
-             margin-left: 10px;
-             content:' \e600';
-             transition:ALL 0.5s;
+     div#links h1  a:after{
+             content:'';
+             font-weight: bolder;
+             transition:ALL 0.3s;
         }
-        h1.link a:hover:after{
+       div#links h1 a:hover:after{
           margin-left: 20px;
-
         }
-
-
-  article#project_link{
-    font-family: "source code pro", Helvetica, sans-serif;
-    text-align: left;
-    font-size: 15px;
-    font-weight: bold;
-    color: #4a3df4;
-    width: 100%;
-
-  }
-    article#project_link p{
-      padding: 10px 0;
-    }
 
 
 /*---------section of work imgs & videos------*/
-section#work_img{
-        width:100%;
-        background-color: white;
 
+section#work_img{
+     /*   width:100%;*/
+       
+       background-color:#fdfdfd;
+
+        padding-bottom:15%;
+         display: inline-block;
+        box-shadow: 1px 5px 50px #CFD0D1;
 }
       article#work_imgs{
-        width: 60%;
-        padding-top:5%;
+        width: 70%;
+        padding-top:1%;
         padding-left:19%;
-        display: inline-block;
- 
+
+    
 
       }
         article#work_imgs img{
-          margin-top: 10%;
+          margin-top: 5%;
           width: 80%;
-          height:30%;
-          margin-bottom:5%;
+          height:80%;
+             box-shadow: 1px 3px 20px #CFD0D1;
         }
 
         article#work_imgs .video_container{
@@ -315,11 +307,10 @@ section#work_img{
 
 
    #section_work a:hover{
-       transition: background,0.5s;
+       transition: background, 0.5s;
        background:linear-gradient( rgba(153,204,255, 0.25), rgba(255, 204, 153, 0.25));
        }
 
-  
 
     section#section_work ul#work_list{
       width:100%;
@@ -335,8 +326,6 @@ section#work_img{
       flex-flow: wrap row;
     }
 
-
-
       section#section_work ul#work_list li.each_work{
         width: 20%;
         margin-left:5%;
@@ -351,7 +340,10 @@ section#work_img{
           position: relative;
           overflow: hidden;
           text-decoration:none!important;
+
         }
+
+
       section#section_work ul#work_list li img{
             width: 100%;
             height: auto;
@@ -362,7 +354,6 @@ section#work_img{
               -webkit-filter: blur(0.6px);
               -moz-filter: blur(0.6px);
               filter: blur(0.6px);
-
               z-index: -9999;
             }
 

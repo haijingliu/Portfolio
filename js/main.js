@@ -93,6 +93,16 @@ $(function() {
   });
 });
 
+//**---------SlideJS---------**//
+ //*-- SlidesJS Required: Initialize SlidesJS with a jQuery doc ready ---//
+    $(function() {
+      $('#slides').slidesjs({
+        width: 940,
+        height: 528,
+        navigation: false
+      });
+    });
+  //*-- End SlidesJS Required --*//
 
   
 
