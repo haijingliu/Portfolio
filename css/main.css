@@ -33,7 +33,6 @@
 
 /*landing page : home.php*/
     section#main{
-      
       border-style: solid;
       border-width: 1.4px;
       opacity: 0.8;
@@ -42,7 +41,6 @@
       background-color: white;
       box-shadow: 1px 5px 50px #99ccff;
       display: inline-block;
-
     }
     
   section#main img{
@@ -90,7 +88,6 @@
       display: -webkit-flex;
       flex-flow: row wrap;
       -webkit-flex-direction: row;
- 
     }
       .nav_list{
         width: 100%;
@@ -179,7 +176,6 @@
         }
         
         article#work_details p1{
-         
           font-size: 1.16vw;
         }
 
@@ -232,7 +228,7 @@
        }
        div#links{
         padding:3%;
-        font-family: "source code pro", Helvetica, sans-serif;
+        font-family:"source code pro", Helvetica, sans-serif;
       }
 
       div#links a:link{
@@ -249,7 +245,7 @@
              font-weight: bolder;
              transition:ALL 0.3s;
         }
-       div#links h1 a:hover:after{
+     div#links h1 a:hover:after{
           margin-left: 20px;
         }
 
@@ -257,10 +253,10 @@
 /*---------section of work imgs & videos------*/
 
 section#work_img{
-     /*   width:100%;*/
+        /* width:100%;*/
         background-color:#fdfdfd;
         padding-bottom:15%;
-         display: inline-block;
+        display: inline-block;
         box-shadow: 1px 5px 50px #CFD0D1;
 }
       article#work_imgs{
@@ -268,13 +264,12 @@ section#work_img{
         padding-top:1%;
         padding-left:19%;
 
-    
-
       }
         article#work_imgs img{
           margin-top: 5%;
           width: 80%;
           height:80%;
+
         }
 
         article#work_imgs 
@@ -342,7 +337,6 @@ section#work_img{
           position: relative;
           overflow: hidden;
           text-decoration:none!important;
-
         }
 
 
@@ -376,7 +370,6 @@ section#work_img{
               }
 
          div.work_detail p.worktitle span{
-
                   font-family: "source code pro","sans-serif";
                   color: black;
                   font-weight: bold;

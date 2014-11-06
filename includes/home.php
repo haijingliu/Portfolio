@@ -4,9 +4,9 @@
       <section id="main">
       <section id="about">
          <p style="font-weight:bold;font-size:large">Hello, there &nbsp;&nbsp;<i class="fa fa-smile-o"></i></p> 
-         <p>This is <span class="highlight"> <a>Haijing (海静)</a></span> &nbsp;a designer, self-initiated on the interaction-side</p><p>I was born&raised in Chengdu, Mainland China,
+         <p>This is <span class="highlight"> <a>Haijing (海静)</a></span> &nbsp;a designer, self-initiated on the interaction-side</p><p>I was born&raised in Chengdu, Mainland China, I finished my BA study in Shanghai, and 
          currently New York City based.</p>
-         <P>I am an recent MFA D+T graduate&nbsp; @ <span class="highlight">
+         <P>I am a recent MFA D+T graduate&nbsp; @ <span class="highlight">
          <a  href="http://www.newschool.edu/parsons/mfa-design-technology/
          "target="_blank" style="text-decoration: none; color: #000000 ">
          Parsons The New school for Design</a></span>,

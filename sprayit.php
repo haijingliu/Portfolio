@@ -38,7 +38,7 @@
                    <div class="video_container">
                     <iframe src="//player.vimeo.com/video/108392808?color=6cf205" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/108392808">sprayIt</a> from <a href="http://vimeo.com/user18234160">charl</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
                   </div>
-                <img width="300" height="340"src="img/imgs/sprayIt/senarios01.jpg">
+      
                   <img src="img/imgs/sprayIt/cats.jpg">
                   <img src="img/imgs/sprayIt/gallery.jpg">
             </article>

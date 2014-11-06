@@ -78,7 +78,6 @@
 </a>
 </li>
 
-
 <li class="each_work">
 <a class="work_link" href="?page=facelook">
 <img src="img/thumbs/facelook.png">
@@ -91,7 +90,7 @@
 
 <li class="each_work">
 <a class="work_link" href="?page=spinspin">
-<img src="img/thumbs/spinspin.png">
+<div class ='colorwheel'></div>
 <div class="work_detail">
 <p class="worktitle" ><span>spinspin</span></p>
 <p class="worksubtitle" >socialIntervention</p>

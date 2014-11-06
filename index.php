@@ -37,7 +37,7 @@
         <link href='http://fonts.googleapis.com/css?family=Merriweather' rel='stylesheet' type='text/css'><!--for workpage text-->
 		
         <!-- slides.css-->
-		<link rel ="stylesheet" href="css/slides.css">
+		<!--link rel ="stylesheet" href="css/slides.css"-->
 
 		<!-- Js code-->
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>

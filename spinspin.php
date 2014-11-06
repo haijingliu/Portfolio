@@ -22,7 +22,9 @@ I simply create this a physical version of the interface with dc motor, take the
                  <section id="work_img">
            <article id="work_imgs">
                    <div class="video_container">
-                   <iframe width="300" height="225" src="//www.youtube.com/embed/hj-UhDs7Y2c?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+                   <iframe width="300" height="225"
+                      src="//www.youtube.com/embed/hj-UhDs7Y2c?rel=0&amp;showinfo=0"
+                      frameborder="0" allowfullscreen></iframe>
                   </div>
             </article>
       </section>

@@ -9,7 +9,7 @@
                  <h2>Copter Wish</h2>
                  <h3>Physical Interface + Interactive Datavisualization ｜2014</h3>
                  <p1><p>CopterWish is a tangible Interface which enables the user to literally grab the latest wishes from the Internet(twitter) in a worldwide landscape.</p>
-                 <p>The bamboo copter in east asia, pronounced as “zhuqingting” in Mandarin Chinese and “taketombo” in Japanese is an ancient children play that flies up when its shaft is rapidly spun. This object contains a metaphor of good bliss or wish.</p>
+                 <p>The bamboo copter in east asia, pronounced as “zhuqingting” in Mandarin Chinese and “taketombo” in Japanese is an ancient children play that flies up when its shaft is rapidly spun. This object contains a metaphor of good blessing or wish.</p>
                  <p>Using the object as a form to trigger an intriguing interaction with internet data, this interaction subverts the perception between modern electronic devices and their users, hence drawing an effective connection among data and its internet users.</p>
                  <p>In critiquing the modern HCI interaction and a general usage of social networks, this interface is more emphasizing on an aesthetic and poetic experience to explore a physical and haptic interaction with the user-generated data from the internet, as well as to provide participants a co-related emotional experience. </p>
                  <p>This phenomena is parallel to the current generation within the ever emergent globalized tendency. Accurate real-time, individually expression, hybrid geolocations, decentralized power and rights are signs of this contemporary networking experience.</p>
