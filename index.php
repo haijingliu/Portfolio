@@ -19,33 +19,22 @@
 	   </div> 
 
 	   <!--- end container -->
+     
+       <?php include_once 'includes/footer.php';?>
+
+
        
-       <?php include_once 'includes/section_work.php';?> 
-       <?php include_once 'includes/footer.php';?> 
-
-
-        <!--css code-->
-		<link rel ="stylesheet" href="css/main.css">
-		<link rel ="stylesheet" href="css/normalize.css">
-		<link rel ="stylesheet" hred="css/normalize.min.css">
-		<!--font awesome-->
-		<link rel="stylesheet" href="css/font-awesome.min.css" type="text/css" media="screen, projection">
+		
 		<!-- google webfonts-->
 		<link href='http://fonts.googleapis.com/css?family=Source+Code+Pro' rel='stylesheet' type='text/css'> <!--forlinksinworkpage -->
-		<link href='http://fonts.googleapis.com/css?family=Karla' rel='stylesheet' type='text/css'><!--for about -->
         <link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'> <!--for header & footer-->
         <link href='http://fonts.googleapis.com/css?family=Merriweather' rel='stylesheet' type='text/css'><!--for workpage text-->
 		
-        <!-- slides.css-->
-		<!--link rel ="stylesheet" href="css/slides.css"-->
+
 
 		<!-- Js code-->
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	   
-       <!-- SlidesJS Required jquery.slides.js -->
-	   <script src="js/jquery.slides.min.js"></script>
-	    <!-- End SlidesJS Required -->
-
 
 	    <!--JS code-->
 	    <script type= "text/javascript" src="js/main.js"></script>   
@@ -61,7 +50,7 @@
 		  ga('create', 'UA-55279323-1', 'auto');
 		  ga('send', 'pageview');
 		</script>
+      
       </body>
-
-      </html>
+</html>
 

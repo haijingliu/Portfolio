@@ -40,17 +40,14 @@
             <div id="features">
             <p><i class="fa fa-gift"></i>&nbsp;&nbsp;ACKNOWLEDGMENTS</i></p>
             <p>Thesis Instructor  <br> <a style=text-decoration:none; href="http://www.melaniecrean.com/" >Melanie Crean</a> <a style=text-decoration:none; href="http://www.andrewzornoza.com/">Andrew Zornoza</a></p>
-            <p>Special thanks to  <br> <a style=text-decoration:none; href="http://jos.ph">Joe Saavedra</a> <a style=text-decoration:none; href="http://owenherterich.com/">Owen Herterich</a>
+            <p>Special thanks to  <br> <a style=text-decoration:none; href="http://jos.ph">Joe Saavedra</a> <a style=text-decoration:none; href="http://wentin.co/">Wengting Zhang</a>
             <br>for technology guidance</p>
-            <p>Development Credits<br>
-            <a style=text-decoration:none; href="http://wentin.co/">Wengting Zhang</a>
-            <br>for twitterstream API methodology implement</p>  
+           
+
             </div> 
-
-
             <div id="links">
             <h1><a style=text-decoration:none; target="_blank" href="http://haijing.info">Checkout the website documentations.</a><h1>
-            <h1><a style=text-decoration:none; target="_blank" href="https://github.com/haijingliu/Thesis">Source Code is available on Github.</a></h1>
+            <h1><a style=text-decoration:none; target="_blank" href="https://github.com/haijingliu/Thesis">Source Code</a></h1>
             
             </div>
           </article>
