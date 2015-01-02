@@ -1,8 +1,23 @@
 <?php include_once 'includes/nav.php' ?>
 
 <div id="project_wrapper">
+  <script src="../libs/jquery/jquery.js"></script>
+    <script src="../src/jquery.backstretch.js"></script>
+  <script>
+        $.backstretch([
+          "5.jpg",
+          "4.jpg",
+          "3.jpg",
+          "2.jpg",
+          "1.jpg"
+        ], {
+            fade: 750,
+            duration: 4000
+        });
+    </script>
       <section id="work_content">
             <article id="work_details">
+
                   <h2>SprayIt</h2>
                   <h3>Web Application as a Multi-user drawing tool</h3>
               
