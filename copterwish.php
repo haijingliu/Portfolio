@@ -1,9 +1,9 @@
 <?php include_once 'includes/nav.php' ?>
 
 <div id="project_wrapper">
-      <header>
+ <!--      <header>
             <img src="img/wishesTitle.jpg">
-      </header>
+      </header> -->
       <section id="work_content">
             <article id="work_details">
                  <h2>Copter Wish</h2>

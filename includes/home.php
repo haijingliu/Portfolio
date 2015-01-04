@@ -1,12 +1,10 @@
 
 <?php include_once 'includes/nav.php';?>
- 
-     
+
 
       <section id="main">
 
       <article id="about">
-
 
          <h1>Hello<br>
          I'm Haijing Liu</h1> 
@@ -72,7 +70,7 @@
 
    <li class="each_work">
       <a class="work_link" href="?page=instantScan">
-            <img src="img/thumbs/creativecoding.png">
+            <img src="img/thumbs/stars.gif">
             <div class="work_detail">
             <p class="worktitle" ><span>Creative Coding</span></p>
             <p class="worksubtitle">Software Art</p>
@@ -114,7 +112,7 @@
 
 <li class="each_work">
    <a class="work_link" href="?page=spinspin">
-         <div class ='colorwheel'></div>
+          <img src="img/thumbs/spinning.gif"></img>
             <div class="work_detail">
                <p class="worktitle" ><span>spinspin</span></p>
                <p class="worksubtitle" >socialIntervention</p>

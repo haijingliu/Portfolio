@@ -1,20 +1,22 @@
 <?php include_once 'includes/nav.php' ?>
 
 <div id="project_wrapper">
-  <script src="../libs/jquery/jquery.js"></script>
-    <script src="../src/jquery.backstretch.js"></script>
-  <script>
+  
+    <header>
+    <script>
         $.backstretch([
-          "5.jpg",
-          "4.jpg",
-          "3.jpg",
-          "2.jpg",
-          "1.jpg"
+          "../sprayit/nyc/5.jpg",
+           "../sprayit/nyc/4.jpg",
+            "../sprayit/nyc/3.jpg",
+             "../sprayit/nyc/2.jpg",
+              "../sprayit/nyc/1.jpg"
         ], {
             fade: 750,
             duration: 4000
         });
-    </script>
+    </script>  
+    </header>
+
       <section id="work_content">
             <article id="work_details">
 

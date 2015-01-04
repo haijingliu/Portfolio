@@ -24,13 +24,10 @@
        </section>
 
 <section id="work_img">
-            <article id="work_imgs">
-
+                <article id="work_imgs">
                 <img src="img/imgs/moodie/moodie_research1.jpg">
-
                 <img src="img/imgs/moodie/moodie_research2.jpg">
                 <img src="img/imgs/moodie/moodie_research3.jpg">
-
                 <img src="img/imgs/moodie/moodie_wireframes.jpg">
                 <img src="img/imgs/moodie/moodie_interface01.jpg">
                 <img src="img/imgs/moodie/moodie_interface03.jpg">

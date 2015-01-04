@@ -18,8 +18,7 @@
 	   ?>
 	   </div> 
 
-	   <!--- end container -->
-     
+	   <!--- end container --> 
        <?php include_once 'includes/footer.php';?>
 
 
@@ -38,6 +37,8 @@
 
 	    <!--JS code-->
 	    <script type= "text/javascript" src="js/main.js"></script>   
+
+
 	   
 
 	    <!--- google analytics-->

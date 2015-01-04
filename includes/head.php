@@ -16,4 +16,10 @@
 <link rel="stylesheet" href="css/font-awesome.min.css" type="text/css" media="screen, projection">
 <!-- JS Code -->
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="jquery.backstretch.min.js"></script>
+   <!-- -->
+ <script src="../libs/jquery/jquery.js"></script>
+ <script src="../src/jquery.backstretch.js"></script>
+
+
 </head>
