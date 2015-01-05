@@ -24,12 +24,11 @@
                   <h3>Web Application as a Multi-user drawing tool</h3>
               
                   <p1><p>Graffiti in New York City has been recognized as an act of urban vandalism culture towards the city's authorities.
-                  This urban art form has widely influenced the graffiti culture worldwidely.</p>
-                  <p>SprayIt is an web application with multi-user features runs on the heroku platform. 
-                  This app tries to deliver an online exprience of the New York City Graffiti Culture to the internet 
+                  This urban art form has widely influenced the graffiti community worldwidely.</p>
+                  <p>SprayIt is an web application with multi-user real-time features. 
+                  This app tries to deliver an online exprience of the New York City Graffiti Scene to the internet 
                   users. </p>
-                  <p>In using of the websocket technology, users can spray the brush on the canvas at the same time!</p>
-                  <P>Thanks for Open every source, the brush code is in using source via</p><p><a style=text-decoration:none; target="_blank" href="http://codepen.io/hygine/pen/yIvKm"></P>CodePen</p1>
+                  <p>In using of the websocket technology, users can spray online at the same time!</p>
                 
             </article>
             

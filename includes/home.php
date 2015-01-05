@@ -11,15 +11,14 @@
          <p>b.1988 China @New York City </p> 
          <h2> I do <span id ="in"></h2>
 
-         <h2>I hold<h3>MFA Design and Technology Parsons the Newschool for Design </br>
-         BA Design Shanghai Institute of Visual Arts Fudan University</h3></h2>
+         <p>I am a recent<h3>MFA Design and Technology Graduate</h3> from Parsons the New School for Design
+       </p>
 
       
          <table>I am particularly interested in creating meaningful content with intelligent system
-         and interfaces in both poetic and strategic method. <br>Instead of technology utilization,
-         I embrace cultural investigative productions.<br>
-
-        expertise: User Experience Design and Creative Directions for hyper-media & objects connecting.</br>
+         and interfaces in both poetic and strategic method.<br>
+         <p>I design things for humanbeing not user.</p>
+       <p>expertise: Experience Design and Creative Directions for hyper-media & objects connecting.</br>
        Familiar with web standard languages on both server and client side, creative coding toolkits, arduino programming, working knowledge of telecommunication technologies.</p></table>
 
       <p>drop a line&nbsp;
@@ -29,7 +28,7 @@
       <span class="highlight"><a href="https://github.com/haijingliu" target="_blank" style="text-decoration: none; color: #000000 " ><i class="fa fa-github "></i></a></span>&nbsp;
       <span class="highlight"><a href="https://twitter.com/charl28th" target="_blank" style="text-decoration: none; color: #000000 " ><i class="fa fa-twitter "></i></a></span>
 
-       and I am seeking position of matching role</p>   
+       I need a Team to build things happen with talent and humble folks and I am seeking position of a matching role</p>   
       </article>
      </section>
 
@@ -63,7 +62,7 @@
                <img src="img/thumbs/currents.jpg">
                <div class="work_detail">
                <p class="worktitle" ><span>translation</span></p>
-               <p class="worksubtitle">graphic design / book design</p>
+               <p class="worksubtitle">Graphic design / Book design</p>
                </div>
          </a>
       </li>
@@ -84,7 +83,7 @@
                <img src="img/thumbs/moodie.png">
                <div class="work_detail">
                <p class="worktitle" ><span>Moodie</span></p>
-               <p class="worksubtitle">IOS App</p>
+               <p class="worksubtitle">User Experience/Ios</p>
           </div>
       </a>
    </li>
@@ -95,7 +94,7 @@
             <img src="img/thumbs/honeycomb.png">
                <div class="work_detail">
                   <p class="worktitle" ><span>Honeycomb</span></p>
-                  <p class="worksubtitle">Mobile app/user experience</p>
+                  <p class="worksubtitle">User Experience</p>
          </div>
       </a>
    </li>
@@ -105,7 +104,7 @@
             <img src="img/thumbs/facelook.png">
                 <div class="work_detail">
                   <p class="worktitle" ><span>facelook</span></p>
-               <p class="worksubtitle" >speculative design/web design</p>
+               <p class="worksubtitle" >Speculative Design/Web Design</p>
          </div>
       </a>
    </li>
@@ -115,7 +114,7 @@
           <img src="img/thumbs/spinning.gif"></img>
             <div class="work_detail">
                <p class="worktitle" ><span>spinspin</span></p>
-               <p class="worksubtitle" >socialIntervention</p>
+               <p class="worksubtitle" >Social Intervention / Art</p>
       </div>
    </a>
 </li>
@@ -124,7 +123,7 @@
    <a class="work_link" href="?page=datavis">
          <img src="img/thumbs/mapofmilk.jpg">
             <div class="work_detail">
-            <p class="worktitle"><span>information design</span></p>
+            <p class="worktitle"><span>Information Design</span></p>
       </div>
    </a>
 </li>
@@ -134,7 +133,7 @@
             <img src="img/thumbs/2010thesis.png">
                   <div class="work_detail">
                      <p class="worktitle"><span>BFA Thesis</span></p>
-                     <p class="worksubtitle" >Branding Strategy of Recycling Products</p>
+                     <p class="worksubtitle" >Branding and Web Design</p>
                 </div>
            </a>
        </li>
