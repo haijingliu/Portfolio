@@ -20,13 +20,14 @@
 
   body{
   background: linear-gradient( rgba(255, 204, 153, 0.25),rgba(153,204,255, 0.25));
-  /*  background: -moz-linear-gradient:(to bottom right, #D6E8F2, #FFCCCC);*/
+  background: -moz-linear-gradient:(to bottom right, #D6E8F2, #FFCCCC);
   font-size: 100%;
+/*  background-image: url("bg.jpg");*/
   }
 
   div#container{
    width: 100%;
-   
+
   }
 
 
@@ -74,7 +75,6 @@
        font-weight: bolder;
     }
 
-
     .highlight a:hover{
       font-weight: bolder;
       color:white!important;
@@ -100,26 +100,36 @@
       -webkit-flex-direction: row;
       list-style: none;
     }
+
       .nav_list{
       top: 0;
       width: 100%;
       z-index: 100;
-
       }
+
+      nav#main_nav ul#nav_list 
 
       nav#main_nav ul#nav_list li{  
         flex-flow: row wrap;
-        width: 15%;
+        width: 18%;
         text-align: center;
 
-      }
+      } 
 
-
+      a#navLogo h1{ 
+        max-height: 60px;
+        max-width: 100%;
+        width: auto/9;
+        height: 100%;
+        overflow: hidden;
+/*          background: url('../img/header/logo/logo_nav.png') center 0 no-repeat;*/
+          /*text-indent: -99999px;
+*/      }
 
       nav#main_nav ul li.link{
-            margin-left:6%;
+            margin-left:12%;
             padding: 10px;
-            font-size: 1.4em;
+            font-size: 1.5em;
             font-family: "Times New Roman", Times, Serif;
             text-align:center;
 
@@ -140,9 +150,6 @@
 
 /*--------- nav done ------*/
 
-
-
-  
 
 /*  //PROJECT PAGE// */
  div#project_wrapper{
@@ -176,7 +183,7 @@
         overflow: hidden;
       
         width: auto\9;
-        background: url(../img/fastfood_01.gif) center 70px no-repeat fixed; }
+        center 70px no-repeat fixed; }
 
       header .header_container{
         min-width: 100%;

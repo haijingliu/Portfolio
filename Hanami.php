@@ -14,5 +14,12 @@
                 <img src="img/imgs/bfa/4_o.jpg">
                 <img src="img/imgs/bfa/5_o.jpg">
                 <img src="img/imgs/bfa/6_o.jpg">
+
+                <P>web Design</P>
+                  <img src="img/imgs/bfa/WEB/E_0_o.jpg">
+                   <img src="img/imgs/bfa/WEB/e_3_o.jpg">
+                   <img src="img/imgs/bfa/WEB/g1_1_o.jpg">
+                   <img src="img/imgs/bfa/WEB/g2_4_o.jpg">
+                   <img src="img/imgs/bfa/WEB/g3_1_o.jpg">
             </article>
       </section>

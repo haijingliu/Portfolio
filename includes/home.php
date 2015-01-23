@@ -1,9 +1,8 @@
 
-<?php include_once 'includes/nav.php';?>
+<?php include_once 'includes/nav.php' ?>
 
 
       <section id="main">
-
       <article id="about">
 
          <h1>Hello<br>

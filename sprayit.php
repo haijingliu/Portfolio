@@ -2,23 +2,14 @@
 
 <div id="project_wrapper">
   
-    <header>
-    <script>
-        $.backstretch([
-          "../sprayit/nyc/5.jpg",
-           "../sprayit/nyc/4.jpg",
-            "../sprayit/nyc/3.jpg",
-             "../sprayit/nyc/2.jpg",
-              "../sprayit/nyc/1.jpg"
-        ], {
-            fade: 750,
-            duration: 4000
-        });
-    </script>  
-    </header>
+
+
 
       <section id="work_content">
+
             <article id="work_details">
+            
+
 
                   <h2>SprayIt</h2>
                   <h3>Web Application as a Multi-user drawing tool</h3>
