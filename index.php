@@ -21,15 +21,12 @@
 	   <!--- end container --> 
        <?php include_once 'includes/footer.php';?>
 
-
-       
-		
+	
 		<!-- google webfonts-->
 		<link href='http://fonts.googleapis.com/css?family=Source+Code+Pro' rel='stylesheet' type='text/css'> <!--forlinksinworkpage -->
         <link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'> <!--for header & footer-->
         <link href='http://fonts.googleapis.com/css?family=Merriweather' rel='stylesheet' type='text/css'><!--for workpage text-->
 		
-
 
 		<!-- Js code-->
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
@@ -38,8 +35,6 @@
 	    <!--JS code-->
 	    <script type= "text/javascript" src="js/main.js"></script>   
 
-
-	   
 
 	    <!--- google analytics-->
 	    <script>

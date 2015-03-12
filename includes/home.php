@@ -1,47 +1,36 @@
 
 <?php include_once 'includes/nav.php' ?>
 
-
       <section id="main">
       <article id="about">
-
-         <h1>Hello<br>
-         I'm Haijing Liu</h1> 
-         <p>b.1988 China @New York City </p> 
-         <h2> I do <span id ="in"></h2>
-
-         <p>I am a recent<h3>MFA Design and Technology Graduate</h3> from Parsons the New School for Design
-       </p>
-
-      
-         <table>I am particularly interested in creating meaningful content with intelligent system
-         and interfaces in both poetic and strategic method.<br>
-         <p>I design things for humanbeing not user.</p>
-       <p>expertise: Experience Design and Creative Directions for hyper-media & objects connecting.</br>
-       Familiar with web standard languages on both server and client side, creative coding toolkits, arduino programming, working knowledge of telecommunication technologies.</p></table>
-
-      <p>drop a line&nbsp;
-      <span class="highlight"><a href= "hjing6@gmail.com" target="_blank" style="text-decoration: none; color: #000000 " ><i class="fa fa-file-text"></i></a></span>&nbsp;&nbsp;&nbsp;
-      Get social &nbsp;
+      <p>Haijing Liu （b.1988） is a designer, who works between the intersection of<br><h2>Interaction Design/Interface Investigate/Information Design/User Experience Research
+      <!-- <span id ="in"> --></h2>She specializes in creating meaningful content with intelligent system
+      and interfaces in both poetic and strategic method.&nbsp;She's also a recent MFA graduate from&nbsp;<a href="http://www.newschool.edu/parsons/mfa-design-technology/" style="text-decoration:none; color:#FF0000;">Parsons'</a>&nbsp; <!-- <a style="color:#FF0000;"> -->Design and Technology </a>Program.
+      She was born in China and currently New York Based.</a>
+      <p>Contact&nbsp;:
+      <span class="highlight"><a href= "hjing6@gmail.com" target="_blank" style="text-decoration: none; color:black " ><i class="fa fa-file-text"></i></a></span>&nbsp;
+      </p>Get Social&nbsp;:
       <span class="highlight"><a href="https://www.linkedin.com/pub/haijing-liu/42/96b/6b7" target="_blank" style="text-decoration: none; color:#000000"><i class ="fa fa-linkedin"></i></a></span>&nbsp;
-      <span class="highlight"><a href="https://github.com/haijingliu" target="_blank" style="text-decoration: none; color: #000000 " ><i class="fa fa-github "></i></a></span>&nbsp;
-      <span class="highlight"><a href="https://twitter.com/charl28th" target="_blank" style="text-decoration: none; color: #000000 " ><i class="fa fa-twitter "></i></a></span>
-
-       I need a Team to build things happen with talent and humble folks and I am seeking position of a matching role</p>   
-      </article>
+      <span class="highlight"><a href="https://twitter.com/charl28th" target="_blank" style="text-decoration: none; color: #000000 " ><i class="fa fa-twitter "></i>@Charl28th</a></span>&nbsp;&nbsp;<p>
+      She right now is seeking position of matching role.
+      </p>
+        <article id="expertise">
+       <h3>EXPERTISE<h3>
+       <p>Experience Design, Creative Directions for hyper-media & objects connecting.</br>
+       Familiar with web standard languages on both server and client side, creative coding toolkits,</br> arduino programming,
+       and some working knowledge of telecommunication technologies.</p>
+      </article>   
      </section>
 
-      
+  
 <section id="section_work">
-
- <ul id="work_list">
-
+  <ul id="work_list">
       <li class="each_work">
          <a class="work_link" href="?page=copterwish">
-               <img src="img/thumbs/copterwish_thumb.jpg">
+               <img src="img/thumbs/interface.jpg">
                <div class="work_detail">
                   <p class="worktitle" ><span>Wish Message</span></p>
-                  <p class="worksubtitle">Tangible Interface / Interactive Datavisualization</p>
+                 <p class="worksubtitle">Tangible Interface / Interactive Data Visualization</p>
                </div>
          </a>
       </li>
@@ -50,7 +39,7 @@
       <a class="work_link" href="?page=sprayit">
                <img src="img/thumbs/sprayit.jpg">
                <div class="work_detail">
-               <p class="worktitle"><span>Spray It</span></p>
+               <p class="worktitle"><span>SprayIt</span></p>
                <p class="worksubtitle">Web Application</p>
                </div>
       </a>
@@ -60,8 +49,8 @@
          <a class="work_link" href="?page=translation">
                <img src="img/thumbs/currents.jpg">
                <div class="work_detail">
-               <p class="worktitle" ><span>translation</span></p>
-               <p class="worksubtitle">Graphic design / Book design</p>
+               <p class="worktitle" ><span>Translating Spectrum</span></p>
+               <p class="worksubtitle">Graphic/Editorial/Web</p>
                </div>
          </a>
       </li>
@@ -70,9 +59,9 @@
       <a class="work_link" href="?page=instantScan">
             <img src="img/thumbs/stars.gif">
             <div class="work_detail">
-            <p class="worktitle" ><span>Creative Coding</span></p>
+            <p class="worktitle" ><span>Instant Time</span></p>
             <p class="worksubtitle">Software Art</p>
-         <div>
+         </div>
       </a>
    </li>
 
@@ -82,7 +71,7 @@
                <img src="img/thumbs/moodie.png">
                <div class="work_detail">
                <p class="worktitle" ><span>Moodie</span></p>
-               <p class="worksubtitle">User Experience/Ios</p>
+               <p class="worksubtitle">User Experience / Ios / Mobile Interface</p>
           </div>
       </a>
    </li>
@@ -98,25 +87,16 @@
       </a>
    </li>
 
-   <li class="each_work">
-         <a class="work_link" href="?page=facelook">
-            <img src="img/thumbs/facelook.png">
-                <div class="work_detail">
-                  <p class="worktitle" ><span>facelook</span></p>
-               <p class="worksubtitle" >Speculative Design/Web Design</p>
-         </div>
-      </a>
-   </li>
-
 <li class="each_work">
-   <a class="work_link" href="?page=spinspin">
-          <img src="img/thumbs/spinning.gif"></img>
+   <a class="work_link" href="?page=feelikehome">
+         <img src="img/thumbs/home.jpg">
             <div class="work_detail">
-               <p class="worktitle" ><span>spinspin</span></p>
-               <p class="worksubtitle" >Social Intervention / Art</p>
+            <p class="worktitle"><span>Feel like home</span></p>
+            <p class="worksubtitle">Instruction Set for Strangers</p>
       </div>
    </a>
 </li>
+
 
 <li class="each_work">
    <a class="work_link" href="?page=datavis">
@@ -126,19 +106,5 @@
       </div>
    </a>
 </li>
-
-    <li class="each_work">
-            <a class="work_link" href="?page=hanami">
-            <img src="img/thumbs/2010thesis.png">
-                  <div class="work_detail">
-                     <p class="worktitle"><span>BFA Thesis</span></p>
-                     <p class="worksubtitle" >Branding and Web Design</p>
-                </div>
-           </a>
-       </li>
-   
-   </ul>
-
-   </section>
-
-
+</ul>
+</section>

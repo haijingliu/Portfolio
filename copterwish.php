@@ -1,28 +1,37 @@
 <?php include_once 'includes/nav.php' ?>
-
 <div id="project_wrapper">
- <!--      <header>
-            <img src="img/wishesTitle.jpg">
-      </header> -->
       <section id="work_content">
-            <article id="work_details">
-                 <h2>Copter Wish</h2>
-                 <h3>Physical Interface + Interactive Datavisualization ｜2014</h3>
-                 <p1><p>CopterWish is a tangible Interface which enables the user to literally grab the latest wishes from the Internet(twitter) in a worldwide landscape.</p>
-                 <p>The bamboo copter in east asia, pronounced as “zhuqingting” in Mandarin Chinese and “taketombo” in Japanese is an ancient children play that flies up when its shaft is rapidly spun. This object contains a metaphor of good blessing or wish.</p>
-                 <p>Using the object as a form to trigger an intriguing interaction with internet data, this interaction subverts the perception between modern electronic devices and their users, hence drawing an effective connection among data and its internet users.</p>
-                 <p>In critiquing the modern HCI interaction and a general usage of social networks, this interface is more emphasizing on an aesthetic and poetic experience to explore a physical and haptic interaction with the user-generated data from the internet, as well as to provide participants a co-related emotional experience. </p>
-                 <p>This phenomena is parallel to the current generation within the ever emergent globalized tendency. Accurate real-time, individually expression, hybrid geolocations, decentralized power and rights are signs of this contemporary networking experience.</p>
-                 <p>My original intention is to create a nostalgic interaction mode instead of the touch or click triggering process,and to allow users who constantly in contact with modern HCI interface for
-                    many efficient purpose to (re)gain a physically playful experience that this generation owed decades ago.</p>
-                 <p>This project is also my little satirical concern on how modern technology (either the social media networks or the devices) shaping humanbeings interaction modes with both gadgets and social-networking ties.</p></p1>   
-            </article>
+</article>
+            <article id="work_details"> 
+                 <h2>Wish Message <img src="img/imgs/copterwish/png.png" title="wishmessage" width="50" height="50"></a></h2>
+                 <h3>Tangible Interface & Interactive Datavisualization ｜2014</h3>
 
-           
+                 
+                 <p1><p>Simply, users, networks, information have given a basic structure of the network; gradually it forms a sustaining society.
+                 Internet its self is obviously a huge database or as <a style = text-decoration:none!important; font-color:blue;target="Jonathan Harris"; href="http://www.number27.org/">Jonathan Harris</a>
+                 manifested a planetary meta-organism. Virtual human behaviors have been building up the community eternally. Today the mimicry of the analog reality in digital has been expanded and refined,
+                 that has improved the efficiency and quality of communications and also has triggered complex emotions and real consequences constantly.
+                 In this case, I am studying the physical boundaires of virtual networks, and try to explore if there’s a possible way to reform the virtual communication a sensible entity.
+
+                 <p> Wish Message is a communication interface that enables the user to literally grab wishes from the Internet(twitter) worldwidely. 
+                 The bamboo copter in east asia, pronounced as <a style=text-decoration:none!important; font-color:blue; target=“wiki”; href="http://en.wikipedia.org/wiki/Bamboo-copter" >“Zhu Qing Ting”</a>
+                 in Chinese and “taketombo”
+                 in Japanese is an ancient children play that flies up when its shaft is rapidly spun. This object contains a metaphor of good blessing.
+                 
+                 <p>Instead of the touch or click triggering process,the interaction system allows the user who constantly in contact with modern HCI for
+                 many efficient purpose to (re)gain a physically playful experience, plus, subverts the perception between electronic devices and users.
+                 In critiquing the phenomena of mordern HCI and a general usage of social networking-tie, this interface want to emphasizes a physical or haptic perception with data,
+                 hence, provides participants a co-related emotional experience that beyond their own networks.
+                </p1>  
+
+                <p>Interface Material: Basswood, Vinyl.</p>
+     </article>
 
 
-            <article id ="toolinks">
-                  <div class="toolinks"> 
+
+            <article id ="project_features">
+
+            <div class="toolinks"> 
                         <h1><i class="fa fa-cog"></i>&nbsp;&nbsp;TECH COMPONENTS</h1>
                         <h4 class="tool">ArduinoFio</h4>
                         <h4 class="tool">Triple Axis Accelerometer</h4>
@@ -30,47 +39,37 @@
                         <h4 class="tool">WebsocketApi</h4>
                         <h4 class="tool">TwitterStreamApi</h4>
                         <h4 class="tool">GoogleMapApi</h4>
-                  </div>
-            </article>
-
-
-
-
-            <article id ="project_features">
+            </div>
             <div id="features">
             <p><i class="fa fa-gift"></i>&nbsp;&nbsp;ACKNOWLEDGMENTS</i></p>
-            <p>Thesis Instructor  <br> <a style=text-decoration:none; href="http://www.melaniecrean.com/" >Melanie Crean</a> <a style=text-decoration:none; href="http://www.andrewzornoza.com/">Andrew Zornoza</a></p>
-            <p>Special thanks to  <br> <a style=text-decoration:none; href="http://jos.ph">Joe Saavedra</a> <a style=text-decoration:none; href="http://wentin.co/">Wengting Zhang</a>
-            <br>for technology guidance</p>
-           
-
+            <p>Thesis Instructor  <br> <a style=text-decoration:none; href="http://www.melaniecrean.com/" >Melanie Crean</a> and <a style=text-decoration:none; href="http://www.andrewzornoza.com/">Andrew Zornoza</a></p>
+            <p>Special thanks to  <br> <a style=text-decoration:none; href="http://jos.ph">Joe Saavedra</a> and <a style=text-decoration:none; href="http://wentin.co/">Wengting Zhang</a>
+            <br></p>
             </div> 
+
             <div id="links">
-            <h1><a style=text-decoration:none; target="_blank" href="http://haijing.info">Checkout the website documentations.</a><h1>
-            <h1><a style=text-decoration:none; target="_blank" href="https://github.com/haijingliu/Thesis">Source Code</a></h1>
-            
+            <a style=text-decoration:none; target="_blank" href="http://haijing.info">Website.</a>
+            <a style=text-decoration:none; target="github" href="https://github.com/haijingliu/Thesis">Source Code</a>
             </div>
           </article>
        </section>
 
-<section id="work_img">
-            <article id="work_imgs">
-         
-            <img src="img/imgs/copterwish/schematic.jpg">
-                  <div class="video_container">
-                       <iframe src="//player.vimeo.com/video/95751766?color=6cf205" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-                       <p><a href="http://vimeo.com/95751766">Copter Wish</a>from<a href="http://vimeo.com/user18234160">charl</a>on<a href="https://vimeo.com">Vimeo</a>.</p>                  
+<section id="Project_Content">
+            <article id="Content">
+                  <div class = "content_img">
+                 <img src="img/imgs/copterwish/interface.jpg">   
                   </div>
-            <!--      <dic class = "containers">
-                  <div id="slides"> -->
-                  <img src="img/imgs/copterwish/interface.jpg">
+
+                  <div class="video_container">
+                  <iframe src="//player.vimeo.com/video/95751766?color=c9ff23&byline=0&portrait=0" width="345" height="225" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                  </div>
+                  <div class = "content_img">
+             
                   <img src="img/imgs/copterwish/exhibition.jpg">
                   <img src="img/imgs/copterwish/exhibition1.jpg">
                   <img src="img/imgs/copterwish/exhibition3.jpg">
-                  <!-- <a href="#" class="slidesjs-previous slidesjs-navigation"><i class="icon-chevron-left icon-large"></i></a>
-                  <a href="#" class="slidesjs-next slidesjs-navigation"><i class="icon-chevron-right icon-large"></i></ a>
-                  <! </div>
-                   </div>
-                   -->
+                  <img src="img/imgs/copterwish/schematic.jpg">
+                  </div>
             </article>
       </section>
+      <?php include_once 'includes/footer.php' ?>
