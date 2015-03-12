@@ -71,5 +71,7 @@
                   <img src="img/imgs/copterwish/schematic.jpg">
                   </div>
             </article>
+
       </section>
+        <hr></hr>
       <?php include_once 'includes/footer.php' ?>

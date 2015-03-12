@@ -12,15 +12,12 @@
                   <h3>up dating/ other projects coming soon</h3>
             </article>
             </section>
-
-    
-    <section id="Project_Content">
-
     <article id="Content">
         <div class="video_container">
-                  <iframe src="//player.vimeo.com/video/81558133?autoplay=1&loop=1&color=ffffff&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><a href="https://vimeo.com/81558133">InstantScan</a>
-                   from <a href="https://vimeo.com/81558133">charl</a>on<a href="https://vimeo.com">Vimeo</a>
-                   </div>
-                   </article>
-       </section>
+                  <iframe src="//player.vimeo.com/video/81558133?color=c9ff23&byline=0&portrait=0" 
+                  width="480" height="325" frameborder="0" frameborder="0"
+                  webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                  </div>
+          </article>
+  <hr></hr>
    <?php include_once 'includes/footer.php' ?>

@@ -20,11 +20,11 @@
   <frame src="frame_a.htm" frameborder="0">
   <frame src="frame_b.htm" frameborder="0">
   <div class="container">
-      <div id="left" style="position: absolute; top: 280px; left:100px; z-index:999; width: 50%;height:100%; margin:10px; padding:10px; overflow:hidden;"> 
+      <div id="left" style="position: absolute; top: 300px; left:100px; z-index:999; width: 50%;height:100%; margin:10px; padding:10px; overflow:hidden;"> 
       <iframe src="index_left.php" frameborder="0" allowtransparency="true" style="overflow-x:hidden;height:80%;width:60%" scrolling="auto" marginheight="80" marginwidth="80" 
 }></iframe>
     </div>
-    <div id="right" style="position:absolute; top: 250px; right:100px; z-index:999; width: 50%;height:100%; margin:10px; padding:10px; overflow:hidden;"> 
+    <div id="right" style="position:absolute; top: 280px; right:100px; z-index:999; width: 50%;height:100%; margin:10px; padding:10px; overflow:hidden;"> 
       <iframe src="index_right.php" frameborder="0" allowtransparency="true" style="overflow-x:hidden;height:80%;width:60%" scrolling="auto" marginheight="0" marginwidth="0"
 }></iframe>
     </div>

@@ -31,5 +31,5 @@
             </div>
             </article>
       </section>
-      
+        <hr></hr>
       <?php include_once 'includes/footer.php' ?>

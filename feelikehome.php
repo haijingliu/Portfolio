@@ -17,15 +17,18 @@
           
           <section id="Project_Content">
            <article id="Content">
-    
              <div class = "content_img">
-                 <img src="img/imgs/feel/bed.jpg">
                  <img src="img/imgs/feel/bedframes.jpg">
+                 <img src="img/imgs/feel/bed.jpg">
+                  <img src="img/imgs/feel/map.jpg">
                  <img src="img/imgs/feel/feellikehome6_redo.jpg">
                  <img src="img/imgs/feel/feellikehome7_redo.jpg">
-                 <img src="img/imgs/feel/feellikehome9_redo.jpg">
-                     </div>
+             </div>
+
+        <div class="video_container">
+                 <iframe width="560" height="315" src="https://www.youtube.com/embed/I3cjA6AwNxg" frameborder="0" allowfullscreen></iframe>
+                </div>
             </article>
       </section>
-
+  <hr></hr>
       <?php include_once 'includes/footer.php' ?>

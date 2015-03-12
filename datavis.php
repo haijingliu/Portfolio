@@ -16,8 +16,6 @@
                   <section id="work_img">
                   <img src="img/imgs/datavis/mapofMilk.jpg"  height="100%" width="100%" padding="10px">
                   <hr></hr>
-                  <hr></hr><hr></hr><hr></hr>
-                  <hr></hr><hr></hr><hr></hr><hr></hr>
                   </article>
       </section>
                   <section id="work_content">
@@ -32,5 +30,5 @@
                   <hr></hr>
            </article>
       </section>
-
+  <hr></hr>
    <?php include_once 'includes/footer.php' ?>
