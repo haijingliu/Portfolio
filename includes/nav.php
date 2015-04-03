@@ -2,7 +2,7 @@
       <ul id="nav_list">
             <li class="link"><a class="title" href="http://haijing.herokuapp.com">Haijing Liu</a></li>
             <li class="link"><a class="navWork" href="http://haijing.herokuapp.com/#work">works</a></li>
-            <li class="link"><a class="navCv" href="https://docs.google.com/file/d/0B3slIAbNwfAfVDRncFZ1QVZ6akU/edit">cv</a></li>
+            <li class="link"><a class="navCv" href="https://www.dropbox.com/s/047f9dd7jddal9x/Cv_HAIJING.pdf?dl=0">cv</a></li>
             <li class="link"><a class ="navBlog" href="https://medium.com/@oceanastill">blog</a></li>
      
       </ul>

@@ -6,13 +6,13 @@
       <p>Haijing Liu （b.1988） is a designer, who works between the intersection of<br><h2>Interaction Design/Interface Investigate/Information Design/User Experience Research
       <!-- <span id ="in"> --></h2>She specializes in creating meaningful content with intelligent system
       and interfaces in both poetic and strategic method.&nbsp;She's also a recent MFA graduate from&nbsp;<a href="http://www.newschool.edu/parsons/mfa-design-technology/" style="text-decoration:none; color:#FF0000;">Parsons'</a>&nbsp; <!-- <a style="color:#FF0000;"> -->Design and Technology </a>Program.
+      And a menber of <a href="http://sfpc.io/" style="text-decoration:none; color:#33ccff;">SFPC</a>.</p>
       She was born in China and currently New York Based.</a>
       <p>Contact&nbsp;:
       <span class="highlight"><a href= "hjing6@gmail.com" target="_blank" style="text-decoration: none; color:black " ><i class="fa fa-file-text"></i></a></span>&nbsp;
       </p>Get Social&nbsp;:
       <span class="highlight"><a href="https://www.linkedin.com/pub/haijing-liu/42/96b/6b7" target="_blank" style="text-decoration: none; color:#000000"><i class ="fa fa-linkedin"></i></a></span>&nbsp;
       <span class="highlight"><a href="https://twitter.com/charl28th" target="_blank" style="text-decoration: none; color: #000000 " ><i class="fa fa-twitter "></i>@Charl28th</a></span>&nbsp;&nbsp;<p>
-      She right now is seeking position of matching role.
       </p>
         <article id="expertise">
        <h3>EXPERTISE<h3>
@@ -41,7 +41,7 @@
                <div class="work_detail">
                <p class="worktitle"><span>SprayIt</span></p>
                <p class="worksubtitle">Web Application</p>
-               </div>
+        </div>
       </a>
 </li>
 

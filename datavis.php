@@ -26,7 +26,7 @@
            </section>
 
                   <section id="work_img">
-                  <img src="img/imgs/datavis/dream.jpg">
+                  <img src="img/imgs/datavis/dream.jpg" height="100%" width="100%" padding="10px">
                   <hr></hr>
            </article>
       </section>

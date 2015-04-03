@@ -23,14 +23,12 @@
                  In critiquing the phenomena of mordern HCI and a general usage of social networking-tie, this interface want to emphasizes a physical or haptic perception with data,
                  hence, provides participants a co-related emotional experience that beyond their own networks.
                 </p1>  
-
                 <p>Interface Material: Basswood, Vinyl.</p>
      </article>
 
 
 
             <article id ="project_features">
-
             <div class="toolinks"> 
                         <h1><i class="fa fa-cog"></i>&nbsp;&nbsp;TECH COMPONENTS</h1>
                         <h4 class="tool">ArduinoFio</h4>
