@@ -3,23 +3,22 @@
 
       <section id="main">
       <article id="about">
-      <p>Haijing Liu （b.1988） is a designer, who works between the intersection of<br><h2>Interaction Design/Interface Investigate/Information Design/User Experience Research
-      <!-- <span id ="in"> --></h2>She specializes in creating meaningful content with intelligent system
-      and interfaces in both poetic and strategic method.&nbsp;She's also a recent MFA graduate from&nbsp;<a href="http://www.newschool.edu/parsons/mfa-design-technology/" style="text-decoration:none; color:#FF0000;">Parsons'</a>&nbsp; <!-- <a style="color:#FF0000;"> -->Design and Technology </a>Program.
-      And a menber of <a href="http://sfpc.io/" style="text-decoration:none; color:#33ccff;">SFPC</a>.</p>
-      She was born in China and currently New York Based.</a>
-      <p>Contact&nbsp;:
+      <p>Haijing Liu is a designer<br><p>who works between the intersection of 
+      <span id ="in"></h2>
+      <P>She specializes in creating meaningful content with intelligent system
+      and interfaces in both poetic and strategic method.&nbsp;</P>
+      She's also a recent MFA graduate from&nbsp;
+      <a href="http://www.newschool.edu/parsons/mfa-design-technology/" style="text-decoration:none; color:#FF0000;"> Parsons Design and Technology Program</a>
+      <P>Her work tends to emphasis on the poetic and aesthetics of digital media &computational technologies.
+      <p> Now she's focusing on the productivity and utility driven design alongside with emergent technology interfering, especially for service and problem solving purpose.
+      <p>Plus, she has recently found the charm of data-driven aesthetics incorporate with the intuitive experience. </P>
+      She was born in China, currently New York City Based.</a>
+      <p>Say Hi&nbsp;:
       <span class="highlight"><a href= "hjing6@gmail.com" target="_blank" style="text-decoration: none; color:black " ><i class="fa fa-file-text"></i></a></span>&nbsp;
       </p>Get Social&nbsp;:
       <span class="highlight"><a href="https://www.linkedin.com/pub/haijing-liu/42/96b/6b7" target="_blank" style="text-decoration: none; color:#000000"><i class ="fa fa-linkedin"></i></a></span>&nbsp;
       <span class="highlight"><a href="https://twitter.com/charl28th" target="_blank" style="text-decoration: none; color: #000000 " ><i class="fa fa-twitter "></i>@Charl28th</a></span>&nbsp;&nbsp;<p>
       </p>
-        <article id="expertise">
-       <h3>EXPERTISE<h3>
-       <p>Experience Design, Creative Directions for hyper-media & objects connecting.</br>
-       Familiar with web standard languages on both server and client side, creative coding toolkits,</br> arduino programming,
-       and some working knowledge of telecommunication technologies.</p>
-      </article>   
      </section>
 
   

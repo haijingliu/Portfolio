@@ -24,19 +24,19 @@ counter += 0.0023;
 
 
 //-- font --//
-// document.getElementById('in').style.fontFamily="Helvetica Neue";
-// document.getElementById('in').style.color="black";
-// document.getElementById('in').style.fontWeight="bold";
+document.getElementById('in').style.fontFamily="Garamond Premier Pro";
+document.getElementById('in').style.color="black";
+document.getElementById('in').style.fontWeight="bold";
 
 
-// var In= document.getElementById('in');
+var In= document.getElementById('in');
 
-// var in_list = [ "Interaction Design", "Interface Investigate", "Information Design", "User Experience Research"];//
+var in_list = [ "Interaction Design", "Interface Investigate", "Information Manifestation", "User Experience Research"];//
 
-// var newAm = window.setInterval( function() {
-//    var num = Math.floor(Math.random() * in_list.length);
-//    In.innerHTML = in_list[num];
-// }, 1000);
+var newAm = window.setInterval( function() {
+   var num = Math.floor(Math.random() * in_list.length);
+   In.innerHTML = in_list[num];
+}, 1600);
 
 
 

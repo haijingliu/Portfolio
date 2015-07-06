@@ -23,22 +23,20 @@
 
     div#container{
      width: 100%;
-     background: blue;
+     background: white;
 
    }
-
-     
-
-     /*-------//navigation//--------------*/
+/*-------//navigation//--------------*/
      /*  //NAV// */
  nav#main_nav{
   position: fixed;
-  padding:1em;
+  padding:1.2em;
   height: 40px;
   width:100%;
   z-index:999;
+  opacity:0.9;
   background:white;
- 
+
     }
 
     nav#main_nav ul#nav_list{
@@ -63,26 +61,32 @@
     } 
 
     nav#main_nav ul li.link{
-      padding-left:1.8em;
-      font-family: "Big Caslon",Serif;
-      letter-spacing:0.06em;
+      padding-left:3em;
+      font-family:"Big Caslon",Sans-Serif;   
+      letter-spacing:0.2em;
       font-weight: bolder;
       text-align:right;
      
     }
 
+
     nav#main_nav ul#nav_list li.link a{
       text-decoration: none;
- /*     color:black;*/
+      color:black;
     }
 
-    nav#main_nav ul#nav_list li.link a.title{font-family:"Garamond Premier Pro"; font-size:1.3em; font-weight:bold; color:black; float:left;transition:color 0.5s}
+    nav#main_nav ul#nav_list li.link a.title{font-family:"Garamond"; font-size:1.4em; 
+    font-weight:bold; color:black; float:left;transition:color 0.5s}
     
-    nav#main_nav ul#nav_list li.link a.navWork{ font-size: 0.9em;color:#d0c0ac; transition:color 0.5s;}
-    nav#main_nav ul#nav_list li.link a.navCv {     font-size: 0.9em;color: #d0c0ac; transition:color 0.5s;}
-    nav#main_nav ul#nav_list li.link a.navBlog {     font-size: 0.9em;color: #ddc0ac; transition:color 0.5s; }
+    nav#main_nav ul#nav_list li.link a.navWork{ font-size: 0.9em;color:#d0c0ac; 
+      transition:color 0.5s;}
+    nav#main_nav ul#nav_list li.link a.navCv { font-size: 0.9em;color: #d0c0ac; 
+      transition:color 0.5s;}
+    nav#main_nav ul#nav_list li.link a.navBlog { font-size: 0.9em;color: #ddc0ac;
+     transition:color 0.5s; }
     nav#main_nav ul#nav_list li.link a:hover{
-      color: black !important;transition:color 0.5s; /*#ffcccc*/
+      color: #E21B33!important;
+      transition:color 0.4s; 
 
     }
 
@@ -92,38 +96,34 @@
    /*landing page : home.php*/
    section#main{
      width:50%;
-     margin-top:55px;
-     position:absolute;
+     margin-top:40px;
+     position:fixed;
+     padding-left:5em;
      padding-bottom:10em;
-
    }
 
 
    article#about{ 
+
+    font-size: 0.9em;
+    width:50%;
     float:left;
     overflow:hidden;
-    width:40%;
-    padding:3em;
-    font-family: 'Big Caslon', Serif;
-    font-size:0.8em;
-    font-weight:bolder;
+    padding:1.8em;
+    line-height:18px;
     letter-spacing:0.05em;
-    text-align: left;
-    padding-bottom:2em;
-    background:#f0f0f0;
-
+    text-align:left;
+    color:gray;
       }
 
       #about h1{
-        font-size: 0.8em;
-        font-family: 'Big Caslon', Serif;            
+        font-family: 'Apercu Regular', Serif;            
       }
 
       #about h2{
-        font-size: 1em;
-        font-family: "Big Caslon", Serif;
+        font-family: "Apercu Regular", Serif;
         color:black;
-      /*  text-transform: uppercase;*/
+        text-transform: uppercase;
   }
 
   .highlight{
@@ -131,15 +131,14 @@
   }
 
   .highlight a:hover{
-    font-weight: bolder;
+  /*  font-weight: bolder;*/
     color:white!important;
     transition: color 0.03s;
     color:#55acee!important;
   }
   
-
      article#expertise {
-      padding-top:1em;
+      padding-top:2em;
   
      }
 
@@ -150,13 +149,13 @@
 
      }
 #expertise hr{
-  border: 1px,dotted, solid;
+  border: 2px,dotted, solid;
 }
      #expertise p{
       font-size: 1em;
       font-family: 'Garamond Premier Pro', Serif;
       font-weight: lighter;
-      color:black;
+      color:333333;
      }
 
     /*-----------//working list section; ---------------*/
@@ -164,14 +163,14 @@
       width:60%;
       float:right;
       display:inline-block;
-      padding-left:2em;
+      padding-top:5em;
       position:inherit;
       z-index:9999;
     }
 
 
     #section_work a:hover{
-     transition: background, 0.3s;
+     transition: background, 0.5s;
      background:#ddd;
      opacity:0.7;
    }
@@ -179,7 +178,7 @@
 
    section#section_work ul#work_list{
     position:relative;
-    display:block;
+    display:inline-block;
     overflow: scroll;
     list-style: none;
     overflow: hidden;
@@ -194,14 +193,14 @@
   }
 
   section#section_work ul#work_list li.each_work{
-    width: 32%;
-    margin:1.3em;
+    width: 33%;
+    margin:3em;
     transition: ALL 0.5s;
   }
 
 
   a.work_link{
-    padding-top:1em;
+    padding-top:1.2em;
     display: inherit;
     position: static;
     text-decoration:none!important;
@@ -212,13 +211,12 @@
     width: 100%;
     height: 100%;
    
-
   }
 
   section#section_work ul#work_list li:hover img{
-    -webkit-filter: blur(0.4px);   
-    -moz-filter: blur(0.4px);
-    filter: blur(0.4px);
+    -webkit-filter: blur(0.2px);   
+    -moz-filter: blur(0.2px);
+    filter: blur(0.2px);
   }
 
 
@@ -232,10 +230,10 @@
   }
 
   div.work_detail p.worktitle span{
-                  font-family: "Big caslon", serif;
+                  font-family: "Garamond Premier Pro", sans-serif;
                   color: black;
                   text-align: center!important;
-                  font-size:0.9em;
+                  font-size:1em;
                   font-weight:bold;
                   letter-spacing:0.06em;
                   padding:1em;
@@ -243,9 +241,9 @@
                 }
 
                 div.work_detail p.worksubtitle{
-                  font-size:0.8em;
+                  font-size:0.75em;
                   font-family: "Helvtica Neue",sans-serif;
-                  letter-spacing:0.16em;
+                  letter-spacing:0.05em;
                   font-weight: lighter;
                   color: black;
                   text-align: right!important;
@@ -258,39 +256,33 @@
                 div#project_wrapper{
                   width:100%;
                   position:absolute;
-                  font-family: "Merriweather" ,Helvetica, sans-serif;
+                  font-family:"Apercu Regular", Helvetica, sans-serif;/*"Merriweather"*/
+                  -webkit-box-shadow: 2px -21px 38px -1px rgba(0,0,0,0.45);
+                  -moz-box-shadow: 2px -21px 38px -1px rgba(0,0,0,0.45);
+                  box-shadow: 2px -21px 38px -1px rgba(0,0,0,0.45);
                 
                 }
 
-
                   section#work_content{
-                    padding: 60px  100px;
+                    padding: 80px  60px;
                     background-color:white;
-          
                   }
      
-                  article#navigation{
-                    position: fixed;
-                    z-index:999;
-      -ms-transform: rotate(3deg); /* IE 9 */
-      -webkit-transform: rotate(3deg); /* Chrome, Safari, Opera */
-      transform: rotate(3deg);
-    }
-
     article#work_details{
-      padding:2em;
-      padding-top: 10px;
-      width: 100%;
-      margin-left:3%;
+      width: 45%;
+      margin-left:10%;
+      margin-right:5%;
+      letter-spacing:0.05em;
       text-align:justify;
+      color:#353535;
+      background:white;
     }
-
-
 
     article#work_details h2{
-      font-size: 1vw;
-
+      font-family:"Garamond Premier Pro";
+      font-size: 1.5vw;
     }
+
     article#work_details h3{
       color:#00b6fb;
       font-size: 1vw;
@@ -298,24 +290,18 @@
 
     }
 
-
     article#work_details p1{
       font-size: 1vw;
     }
 
     /*-------- features &links --------*/
     article#project_features{
-     padding-top:8%;
-     margin-left:40px;
-
-
+        width: 20% ;  
+        padding-right:4%;
    }
-
    .toolinks{
-    margin:2%;
-    padding:5px;
+    margin:10%;
     font-family: "Garamond Premier Pro", Helvetica, sans-serif;
-
   }
 
   div.toolinks h1{ 
@@ -325,7 +311,7 @@
   }
 
   div.toolinks h4{
-   padding:1px;
+   padding:0.8px;
    color:black;
    display: inherit;
    text-align: left;
@@ -341,12 +327,12 @@
 
 
   div#features{ 
-    margin:2%;
-    padding:2%;
+    margin:5%;
+    padding:10%;
     font-family:"karla", serif;
     font-size: 1vw;     
     text-decoration:none!important;
-    border-style:solid;
+/*    border-style:solid;*/
     background:#fcfcfc;
   }
 
@@ -354,7 +340,7 @@
   div#links{
     margin:2%;
     padding:6px;
-    font-family:"Merriweather", Helvetica, sans-serif;
+    font-family:"Alte Haas Grotesk" Helvetica, sans-serif;
   }
 
   div#links a:link{
@@ -366,7 +352,7 @@
   }
 
   div#links  a:hover{ transition:ALL 0.5s;
-/*    color:white;*/
+    color:white;
     background-color:#009933;
   }
 
@@ -380,13 +366,16 @@
   }
 
 
+
+
+
   /*---------section of work imgs & videos------*/
   section#Project_Content{
    padding-bottom:15%;
    display: inline-flex;
    *box-shadow: 1px 5px 50px #CFD0D1;
-
   }
+
   article#Content{
     width: 70%;
     padding-top:1%;
@@ -429,16 +418,16 @@
 
     /* section main*/
     section#main{
-    width: 100%;
-    background-color:#f0f0f0;
+    width: 75%;
+    background-color:#fff;
     }
     
     article#about {
-    font-size:0.8em;
-    font-weight:bolder;
+    padding-top:100px;
+    font-size:0.9em;/*
+    font-weight:bolder;*/
     letter-spacing:0.04em;
     text-align: left;
-
    }
 
 
@@ -470,9 +459,8 @@
     margin-top: 10%;
     width: 45%;
     height:40%;
-    background:#ddffcc;
+  /*  background:#ddffcc;*/
     overflow: hidden;
-
   }
   
   div.work_detail p.worktitle{
@@ -488,15 +476,16 @@
 @media (max-width: 640px) and (min-width: 286px) {
 
 section#main{
-   width: 100%;
+   width: 160%;
+   padding-top: 10px;
+   padding-right:100px;
+   padding-left:20px;
    }
 
  article#about{
-    font-size:0.8em;
-    font-weight:bolder;
-    letter-spacing:0.04em;
-    text-align: left;
-    background-color:#f0f0f0;
+    letter-spacing:0.06em;
+    text-align:left;
+    font-size:0.9em;
    }
 
 
@@ -504,22 +493,16 @@ section#main{
      font-size: 0.8em;
    }
 
-   section#about p{
-     font-size: 1em;
-
-   }
-
-
+ 
 
 
      /*nav*/
    nav#main_nav{
-      height: 20px;
+      height: 32px;
 
     }
  
    nav#main_nav ul#nav_list{
-
     }
 
     nav#main_nav ul li.link{
@@ -529,11 +512,16 @@ section#main{
 
 
   /* work list */
-  section#section_work ul#work_list li.each_work{
+  section#section_work ul#work_list 
+  {
+
+    padding-top:40px;
+  }
+  li.each_work{
     float:right;
-    margin-top: 50px;
+    margin-top: 10px;
     width:100%!important;
-    background-color:#fcfdfa;
+    background-color:#fafdfa;
     overflow: hidden! important;
   }
 
@@ -542,7 +530,7 @@ section#main{
   }
 
   div.work_detail{
-    height: 40px;
+    height: 10px;
   }
   a.work_link:hover div.work_detail{
     top:1px;
@@ -550,95 +538,83 @@ section#main{
 
   div.work_detail p.worktitle{
     position: static;
-    font-size:3vw;
+    font-size:3.5vw;
     font-color:black!important;
   }
   ul#work_list li:hover div.work_detail p.worktitle{
-    font-size:4vw;
-    z-index:-9999;
+    font-size:2.6vw;
+     z-index:-9999;
     text-align:center!important;
     font-color:#d0c0a0;
-   font-weight:bolder; 
-    transition: size 0.4s!important;
+    transition: size 0.8s!important;
   }
 
   div.work_detail p.worksubtitle{
-    font-size: 1vw;
-    font-weight: lighter;
-    text-align:right!important;
+    font-size: 0.6vw;
+    text-align:justify;
     position: static;
     float:right!important;
   }
 
   ul#work_list li:hover div.work_detail p.worksubtitle{
-  display:none!important;
+    z-index:-9999;
+    background-color:#fafafa;
   }
 
 
 
   /*PROJECT PAGE*/
 
-                div#project_wrapper{
-                  width:100%;
-                  position:absolute;
-                  font-family: "Merriweather" ,Helvetica, sans-serif;
+  div#project_wrapper{
+                  width:100%;/*
+                  position:relative;*/
                   -webkit-box-shadow: 2px -21px 38px -1px rgba(0,0,0,0.45);
                   -moz-box-shadow: 2px -21px 38px -1px rgba(0,0,0,0.45);
                   box-shadow: 2px -21px 38px -1px rgba(0,0,0,0.45);
                 }
 
 
-                  section#work_content{
-                    padding: 60px  10px;
+ section#work_content{
+                    text-align:left;
                     display: inline-block;
-                    display: -webkit-box;
-                    display: -ms-flexbox;
-                    display: -webkit-flex;
-                    background-color:white;
-          
+                    display: -webkit-block;
+                    display: -ms-flexblock;
+                    display: -webkit-block;
+
                   }
        
-
-    article#work_details{
- 
-      padding-top: 10px;
-      width: 100%;
-      margin-left:1%;
-      text-align:left;
-      background:#f0f0f0;
+   article#work_details {
+    text-align:justify;
+   }
     
+    h2{
+      font-size: 3vw;
     }
 
-
-
-    article#work_details h2{
+    h3{
+      color:#0026FB;
       font-size: 1.4vw;
-
-    }
-    article#work_details h3{
-      color:#00b6fb;
-      font-size: 1vw;
       font-family: "Andale Mono", Sans-serif;
 
     }
 
 
-    article#work_details p1{
-      font-size: 1vw;
+  #work_details p1{
+      font-size: 1.3vw;
     }
 
     /*-------- features &links --------*/
     article#project_features{
-    position:inline-block;
-    margin-left:2px;
-    background:#f0f0f0;
 
-   }
+      display:inline-block;
+    }
 
-   .toolinks{
-    margin:1%;
-    padding:2px;
-    font-family: "Garamond Premier Pro", Helvetica, sans-serif;
+    .toolinks{  
+          width:60%;
+          padding:80px 10px;
+          margin-left:80px;
+          font-family: "Karla", Helvetica, sans-serif;
+          padding-right:13%;
 
   }
 
@@ -665,12 +641,11 @@ section#main{
 
 
   div#features{ 
-  
     font-family:"karla", sans-serif;
-    text-align: left;    
+    text-align:left;    
     text-decoration:none!important;
-
     background:#fcfcfc;
+
   }
 
 
@@ -689,7 +664,7 @@ section#main{
   }
 
   div#links  a:hover{ transition:ALL 0.5s;
-/*    color:white;*/
+    color:white;
     background-color:#009933;
   }
 
@@ -743,23 +718,22 @@ section#main{
 
 
 /*FOOTER*/
-  footer#main_footer 
+
    footer#main_footer  {
-   float:center;
-   width:100%;/*
-   padding-bottom: 40px;*/
+   width:100%;
    padding-top:10px;
-   position:relative;
    z-index:99999;
    background:white;
+
   }
 
   footer#main_footer p{
     font-family:"Big Caslon", Sans-Serif;
-    text-align: left;
+    text-align:right;
     letter-spacing:0.14em;
-    font-size: 0.6em;
+    font-size: 0.8em;
     color:black;
+
 
   }
 
@@ -795,7 +769,7 @@ section#main{
     font-family:"Big Caslon", Sans-Serif;
     text-align: right; 
     letter-spacing:0.14em;
-    font-size: 0.8em;
+    font-size: 0.9em;
     color:black;
 
   }

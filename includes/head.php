@@ -1,7 +1,7 @@
 <head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="chrome=1">
-<title>Haijing Liu is a Designer</title>
+<title>Haijing's Projects</title>
 <meta name="description" content= "Haijing Liu Interaction Design"/>
 <meta name="keywords" content= "Interaction, Design, Technology, MFA DT, Parsons, Media, Art "/>
 <meta name="owner" content="hello@haijing.info"/>
