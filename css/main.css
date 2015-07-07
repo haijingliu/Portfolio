@@ -237,7 +237,6 @@
                   font-weight:bold;
                   letter-spacing:0.06em;
                   padding:1em;
-
                 }
 
                 div.work_detail p.worksubtitle{
@@ -332,7 +331,7 @@
     font-family:"karla", serif;
     font-size: 1vw;     
     text-decoration:none!important;
-/*    border-style:solid;*/
+    /*border-style:solid;*/
     background:#fcfcfc;
   }
 
@@ -364,9 +363,6 @@
   div#links a:hover:after{
     margin-left: 10px;
   }
-
-
-
 
 
   /*---------section of work imgs & videos------*/
