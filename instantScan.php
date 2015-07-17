@@ -3,7 +3,7 @@
 <div id="project_wrapper">
 <section id="work_content">
   <article id="work_details">
-                  <h2>Instant Scan</h2>
+                  <h2>Instant Time</h2>
                   <h3>Creative Coding/Software Art</h3>
                   <p1><p>Instant Scan is exploring the digital representation as well as a poetic perception of time.
                      An analog clock scans the present scene by its second, minute and hour hands.the scanning process is using "slit-scan',

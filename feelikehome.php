@@ -5,7 +5,7 @@
             <article id="work_details">
                   <h2>Feel like home</h2>
                   <h3>Instruction Set for Strangers</h3>
-                  <p1><p> For most of people, New York City is a place of business and sightseeing but never a home. 
+                  <p1><p>For most of people, New York City is a place of business and sightseeing but never a home. 
                   We tried to invoke a contradictory feeling in Time Squire by introducing a private space where we would 
                   relax and take our mind off everything such as a bedroom to the heart of New York City.
                   As a result, we were using optical perspective of a bed frame to challenging visitors to make themselves at home in middle of Time Squire.

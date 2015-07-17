@@ -3,16 +3,16 @@
 
       <section id="main">
       <article id="about">
-      <p>Haijing Liu is a designer<br><p>who works between the intersection of 
+      <p>I'm Haijing, a designer.<br><p>I work between the intersection of 
       <span id ="in"></h2>
-      <P>She specializes in creating meaningful content with intelligent system
-      and interfaces in both poetic and strategic method.&nbsp;</P>
-      She's also a recent MFA graduate from&nbsp;
+      <P>specializing in creating meaningful content with intelligent system
+      and interfaces in both poetic and strategic method,&nbsp;</P>
+      I am also a recent MFA graduate from&nbsp;
       <a href="http://www.newschool.edu/parsons/mfa-design-technology/" style="text-decoration:none; color:#FF0000;"> Parsons Design and Technology Program</a>
-      <P>Her work tends to emphasis on the poetic and aesthetics of digital media &computational technologies.
-      <p> Now she's focusing on the productivity and utility driven design alongside with emergent technology interfering, especially for service and problem solving purpose.
-      <p>Plus, she has recently found the charm of data-driven aesthetics incorporate with the intuitive experience. </P>
-      She was born in China, currently New York City Based.</a>
+      <P>My work tends to emphasis on the poetic and aesthetics of digital media &computational technologies.
+      <p> Now I am focusing on the productivity and utility driven design alongside with emergent technology interfering, especially for service and problem solving purpose.
+      <p>Plus, I have recently found the charm of data-driven aesthetics incorporate with the intuitive experience. </P>
+       I am China born, currently New York City Based.</a>
       <p>Say Hi&nbsp;:
       <span class="highlight"><a href= "hjing6@gmail.com" target="_blank" style="text-decoration: none; color:black " ><i class="fa fa-file-text"></i></a></span>&nbsp;
       </p>Get Social&nbsp;:
@@ -21,11 +21,22 @@
       </p>
      </section>
 
+<!-- <section id="section_work">
+  <ul id="work_list">
+      <li class="each_work">
+         <a class="work_link" href="?page=PneumaticTubes">
+               <img src="img/thumbs/tubes.jpg">
+               <div class="work_detail">
+                  <p class="worktitle" ><span>Pneumatic Tubes</span></p>
+                 <p class="worksubtitle">Visualization</p>
+               </div>
+                </a>
+      </li>-->
   
 <section id="section_work">
   <ul id="work_list">
       <li class="each_work">
-         <a class="work_link" href="?page=copterwish">
+         <a class="work_link" href="?page=wishmessage">
                <img src="img/thumbs/interface.jpg">
                <div class="work_detail">
                   <p class="worktitle" ><span>Wish Message</span></p>
@@ -42,7 +53,7 @@
                <p class="worksubtitle">Web Application</p>
         </div>
       </a>
-</li>
+      </li>
 
       <li class="each_work">
          <a class="work_link" href="?page=translation">
@@ -102,6 +113,7 @@
          <img src="img/thumbs/mapofmilk.jpg">
             <div class="work_detail">
             <p class="worktitle"><span>Information Design</span></p>
+            <p class="worksubtitle">information design early works</p>
       </div>
    </a>
 </li>

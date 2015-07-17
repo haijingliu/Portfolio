@@ -3,7 +3,7 @@
 <meta http-equiv="X-UA-Compatible" content="chrome=1">
 <title>Haijing's Projects</title>
 <meta name="description" content= "Haijing Liu Interaction Design"/>
-<meta name="keywords" content= "Interaction, Design, Technology, MFA DT, Parsons, Media, Art "/>
+<meta name="keywords" content= "Interaction, Design, Technology, MFADT, Parsons, Media, Art "/>
 <meta name="owner" content="hello@haijing.info"/>
 <meta name="author" content="Haijing Liu"/>
 <meta name="viewport" content="width=device-width"/>
@@ -15,6 +15,7 @@
 <!--font awesome-->
 <link rel="stylesheet" href="css/font-awesome.min.css" type="text/css" media="screen, projection">
 <!-- JS Code -->
+
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script src="jquery.backstretch.min.js"></script>
 <!--JS code-->

@@ -27,8 +27,8 @@
                   </div>
 
                    <div id ="links">
-                         <a style="text-decoration:none!important;" target="Sprayit" href="http://sprayit.herokuapp.com/">Sprayit!</a>
-                         <a style="text-decoration:none!important;" target="Github" href="https://github.com/haijingliu/sprayIt">SourceCode</a>
+                         <a style="text-decoration:none;color:black;" target="Sprayit" href="http://sprayit.herokuapp.com/">Sprayit!</a>
+                         <a style="text-decoration:none;color:black;"  target="Github" href="https://github.com/haijingliu/sprayIt">SourceCode</a>
              </div>
               </article>
             </section>
