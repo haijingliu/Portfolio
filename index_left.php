@@ -1,11 +1,13 @@
 <head>
     <style>
     html, body, img{ height: 100%}
-    #container { height: 900%}
+    #container { height: 900%
+
+    }
     img { 
         position: fixed; 
         top: 0; 
-        width: 99%;
+        width: 100%;
     }
     </style>
     <script src="http://code.jquery.com/jquery-1.7.1.js" type="text/javascript"></script>
@@ -35,7 +37,7 @@ $(document).scroll(function(e){
     var scrollPercent = (scrollRange - scrollY%scrollRange)/scrollRange;
     var divIndex = Math.floor(scrollY/scrollRange);
 
-    target.has(':lt(' + divIndex + ')').css('opacity', 0);
+    target.has(':lt(' + divIndex + ')').css('opacity', 1);
     target.eq(divIndex).css('opacity', scrollPercent);
     target.has(':gt(' + divIndex + ')').css('opacity', 1);
 });

@@ -6,41 +6,58 @@
          <article id="work_details">
           <h2>SprayIt</h2>
                   <h3>Web Application as a Multi-user drawing tool</h3>
-                  <p1><p>Graffiti Art in New York City has been recognized as an act of urban vandalism culture towards the city's authorities.
+                  <h4>Role: Designer & Web Development</h4><hr></hr>
+                  <div id="work_articles">
+                  <p>Graffiti Art in New York City has been recognized as an act of urban vandalism culture towards the city's authorities.
                   With the non-stop movement, this sub-cultural form of art has also been regarded as the civic expression that engaging the contemporary urban space with its unique aesthetic achievement, plus has influenced the street art community worldwidely.</p>
                   <p>SprayIt is a web application with multi-user and real-time features. 
                   This app tries to deliver an online exprience of the New York City Graffiti Scene to the internet 
                   users.</p>
-                  <p>In using of the websocket technology, users can spray online at the same time.</p>
-                    <a style="text-decoration:none!important;" target="Sprayit" href="http://sprayit.herokuapp.com/">Start to Sprayit!</a>
-                 </article>
+                  <p><a style="text-decoration:none!important; font-wieght:bolder;" target="Sprayit" href="http://sprayit.herokuapp.com/">
+                  Start to Sprayit!</a>
+                  </p>
+      
 
-
-     <article id ="project_features">
-                  <div class="toolinks"> 
-                        <h1><i class="fa fa-cog"></i>&nbsp;&nbsp;TECH COMPONENTS</h1>
-                        <h4 class="tool">Heroku</h4>
-                        <h4 class="tool">Html5</h4>
-                        <h4 class="tool">Javascript</h4>
-                        <h4 class="tool">Node.js</h4>
-                        <h4 class="tool">WebsocketApi</h4>
+      <div id="project_features">    
+      
+            <div id="toolink">
+              <ul id="toolinks">
+                  <li><a href="#" 
+                        onmouseover="mopen('Tech')" 
+                        onmouseout="mclosetime()"><i class="fa fa-cog"></i>
+                        &nbsp;&nbsp;Tech Components</a>
+                        <div id="Tech" 
+                            onmouseover="mcancelclosetime()" 
+                            onmouseout="mclosetime()">
+                             <a href="#">Heroku</a>
+                             <a href="#">Canvas</a>
+                             <a href="#">Javascript</a>
+                             <a href="https://github.com/ttezel/twit" 
+                             style="text-decoration:none;color:black;" 
+                             target="_blank" >Node.js</a>
+                             <a href="#"> WebsocketApi</a>
+                           </div>
+                        </li>
+                      </ul>
                   </div>
 
-                   <div id ="links">
+          <div style="clear:both"></div>  
+
+             <div id ="links">
                          <a style="text-decoration:none;color:black;" target="Sprayit" href="http://sprayit.herokuapp.com/">Sprayit!</a>
                          <a style="text-decoration:none;color:black;"  target="Github" href="https://github.com/haijingliu/sprayIt">SourceCode</a>
              </div>
+             </div>
               </article>
-            </section>
+        </section>
 
-            <section id="Project_Content">
-
+        <section id="Project_Content">
            <article id="Content">
                    <div class="video_container">
-                    <iframe src="//player.vimeo.com/video/108392808?color=6cf205" width="430" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/108392808">sprayIt</a> from <a href="http://vimeo.com/user18234160">charl</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+                    <iframe src="//player.vimeo.com/video/108392808?color=6cf205" width="500" height="281" frameborder="0" 
+                    webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                   </div>
                   <div class = "content_img">
-
                   <img src="img/imgs/sprayIt/street.jpg">
                   <img src="img/imgs/sprayIt/cats.jpg">
                   <img src="img/imgs/sprayIt/gallery.jpg">

@@ -2,9 +2,9 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="chrome=1">
 <title>Haijing's Projects</title>
-<meta name="description" content= "Haijing Liu Interaction Design"/>
-<meta name="keywords" content= "Interaction, Design, Technology, MFADT, Parsons, Media, Art "/>
-<meta name="owner" content="hello@haijing.info"/>
+<meta name="description" content= "Haijing Liu UX Interaction Information Designer"/>
+<meta name="keywords" content= "Interaction, Design, Technology, MFADT, Parsons, Media, UX, Art, Information Design, New York City"/>
+<meta name="owner" content="hjing6@gmail.com"/>
 <meta name="author" content="Haijing Liu"/>
 <meta name="viewport" content="width=device-width"/>
 
@@ -12,22 +12,29 @@
 <link rel ="stylesheet" href="css/main.css">
 <link rel ="stylesheet" href="css/normalize.css">
 <link rel ="stylesheet" hred="css/normalize.min.css">
+<!-- <link rel="stylesheet" href="css/foundation.css" /> -->
+
+
 <!--font awesome-->
 <link rel="stylesheet" href="css/font-awesome.min.css" type="text/css" media="screen, projection">
-<!-- JS Code -->
 
+<!--Java Script-->
+<script type= "text/javascript" src="js/main.js"></script>   
+
+<!--JS library-->
+<script src="./js/vendor/modernizr.js"></script>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script src="jquery.backstretch.min.js"></script>
-<!--JS code-->
-<script type= "text/javascript" src="js/main.js"></script>   
- <!-- Jquery -->
- <script src="../libs/jquery/jquery.js"></script>
- <script src="../src/jquery.backstretch.js"></script>
-<!-- google webfonts-->
-<link href='http://fonts.googleapis.com/css?family=Source+Code+Pro' rel='stylesheet' type='text/css'> <!--forlinksinworkpage -->
-<link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'> <!--for header & footer-->
-<link href='http://fonts.googleapis.com/css?family=Merriweather' rel='stylesheet' type='text/css'><!--for workpage text-->
 
+
+ <!-- Jquery -->
+ <script src="../vendor/jquery/jquery.js"></script>
+ <script src="../src/jquery.backstretch.js"></script>
+
+
+<!-- google webfonts-->
+<link href='http://fonts.googleapis.com/css?family=Source+Code+Pro' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Gentium+Basic:700' rel='stylesheet' type='text/css'>
 
 
 <!--- google analytics-->
@@ -41,4 +48,10 @@
   ga('send', 'pageview');
 </script>
 
+    <script src="js/vendor/jquery.js"></script>
+    <script src="js/foundation.min.js"></script>
+    <script>
+      $(document).foundation();
+    </script>
+    
 </head>

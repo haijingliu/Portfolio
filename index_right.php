@@ -2,6 +2,7 @@
     <style>
     html, body, img{ height: 100%}
     #container { height: 900%}
+    
     img { 
         position: fixed; 
         top: 0; 
